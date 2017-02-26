@@ -27,9 +27,7 @@ description: Jobbar för att inspirera och förbättra kunskapen runt webb och t
 url: http://t12t.se
 
 #general config
-markdown: rdiscount
 permalink: /:year/:month/:day/:title
-rdiscount extensions: [smart]
 
 # our Navz
 navigation:

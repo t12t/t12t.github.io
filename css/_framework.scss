@@ -1,0 +1,80 @@
+/*@group Header*/
+header{
+    color:$white;
+
+    a{
+        color:$white;
+    }
+}
+.our-wellknown-logo{
+    font-size:3.25em;
+    font-family: $header-font;
+    padding: 2.777777778%  7.87037037%;
+    margin:0;
+    display:block;
+
+    a{
+        display:block;
+    }
+}
+/*@group Navz*/
+nav{
+    @media screen and (min-width: $break-small) {
+        position:absolute;
+        top:5%;
+        right:10%;
+    }
+
+    ul{
+        list-style:none;
+        overflow:hidden;
+
+        li{
+            float:left;
+        }
+        a{
+            display:block;
+            padding:10px 20px;
+            margin:1px; /*makes the outline more visible in fx*/
+            white-space:nowrap;
+        }
+
+        .current{
+            background:$blaze-orange;
+            border-radius:5px;
+        }
+    }
+}
+/*@end Navz */
+/*@end Header*/
+
+/*@group Main Package*/
+.main-package{
+    background:#fff;
+    padding:0 7.87037037%;
+}
+.package{
+    background:#fff;
+    padding:0 7.87037037%;
+}
+/*@end Main Package*/
+
+/*@group Feet*/
+.underground{
+    padding:2.777777778% 7.87037037%;
+}
+.related-feet{
+
+    h2{
+        color:$white;
+    }
+
+    ul{
+        margin: 0 0 20px;
+        padding: 0;
+    }
+    li{
+        list-style-position: inside;
+    }
+}
+/*@end Feet*/

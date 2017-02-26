@@ -1,0 +1,51 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            t12t
+tagline:        Jobbar för att inspirera och förbättra kunskapen runt webb och tillgänglighet.
+url:              http://t12t.se
+paginate:         1
+baseurl:          /
+author:
+  name:           t12t
+  url:            https://twitter.com/t12t
+
+sass:
+    sass_dir: css
+    syntax: scss        # scss|sass
+    style:  compressed  # nested|expanded|compact|compressed
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/t12t
+
+#feed config
+name: t12t
+description: Jobbar för att inspirera och förbättra kunskapen runt webb och tillgänglighet.
+url: http://t12t.se
+
+#general config
+markdown: rdiscount
+permalink: /:year/:month/:day/:title
+rdiscount extensions: [smart]
+
+# our Navz
+navigation:
+- text: Start
+  url: /
+  permalink: /
+- text: Om t12t
+  url: /om-t12t/
+  permalink: /
+- text: Meetups
+  url: /meetups/
+  permalink: /
+- text: N00b-tips
+  url: /n00b-tips/
+  permalink: /
+- text: Newsletter
+  url: /accessibility-newsletter/
+  permalink: /

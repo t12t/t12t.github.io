@@ -12,3 +12,5 @@ lang: en
  If everything goes according to the plan the newsletter will be sent out once or twice a month.
 
 {% include form.html %}
+
+_We use [Mailchimp](https://mailchimp.com) for our newsletter. We promise to not share your email with a third party. There will be a link in the newsletter where you can unsubscribe._ 

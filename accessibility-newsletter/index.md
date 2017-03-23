@@ -13,4 +13,8 @@ lang: en
 
 {% include form.html %}
 
-_We use [Mailchimp](https://mailchimp.com) for our newsletter. We promise to not share your email with a third party. There will be a link in the newsletter where you can unsubscribe._ 
+_We use [Mailchimp](https://mailchimp.com) for our newsletter. We promise to not share your email with a third party. There will be a link in the newsletter where you can unsubscribe._
+
+## Archive
+
+{% include archive.html %}

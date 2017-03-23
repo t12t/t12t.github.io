@@ -224,3 +224,19 @@
 #mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {
     border: 2px solid #e85c41;
 }
+
+.archive-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    margin-bottom: 10px;
+  }
+  a {
+    display: block;
+    @media screen and (min-width: $break-small) {
+      display: inline;
+    }
+  }
+}

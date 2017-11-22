@@ -1,0 +1,23 @@
+{
+  "name": "t12t.github.io",
+  "version": "1.0.0",
+  "description": "The t12t Website",
+  "dependencies": {
+    "axe-testcafe": "^1.1.0",
+    "testcafe": "^0.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t12t/t12t.github.io.git"
+  },
+  "keywords": [
+    "a11y",
+    "t12t",
+    "accessibility"
+  ],
+  "author": "Ida Franceen",
+  "bugs": {
+    "url": "https://github.com/t12t/t12t.github.io/issues"
+  },
+  "homepage": "http://t12t.se"
+}

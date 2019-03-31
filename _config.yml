@@ -37,8 +37,8 @@ navigation:
 - text: Om t12t
   url: /om-t12t/
   permalink: /
-- text: Meetups
-  url: /meetups/
+- text: Code of Conduct
+  url: /code-of-conduct/
   permalink: /
 - text: N00b-tips
   url: /n00b-tips/

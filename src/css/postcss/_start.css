@@ -1,0 +1,32 @@
+.start main {
+  padding: 0;
+}
+
+.start .package {
+  overflow: hidden;
+  padding: 2.777777778% 7.87037037%;
+}
+
+.introduction-package {
+  background: $zeus;
+}
+
+.introduction h2 {
+  font-size: 2.5em;
+}
+
+.introduction h2,
+.introduction p {
+  color: $white;
+}
+
+@media screen and (min-width: $break-small) {
+  .introduction {
+    max-width: 575px;
+    float: right;
+  }
+
+  .introduction h2 {
+    font-size: 3em;
+  }
+}

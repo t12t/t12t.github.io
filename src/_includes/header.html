@@ -1,0 +1,14 @@
+{% if locale == "en" %}
+  {% assign localeHref = "/en" %}
+{% else %}
+  {% assign localeHref = "/" %}
+{% endif %}
+<header>
+  <a href="{{localeHref}}" class="our-wellknown-logo">
+    <picture>
+      <source type="image/svg+xml" srcset="/images/t12t-logo.svg" alt="t12t" />
+      <img src="/images/t12t-logo.png" alt="t12t" />
+    </picture>
+  </a>
+  {% include mainnav.html %}
+</header>

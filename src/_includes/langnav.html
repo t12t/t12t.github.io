@@ -1,0 +1,22 @@
+{% for lgg in site.languages %}
+  {% if forloop.first %}<div class="lang-nav">{% endif %}
+  <!-- assign translatedUrl to the homepage of that language by default -->
+  {% capture translatedUrl %}/{{ lgg.code }}/{% endcapture %}
+  {% if lgg.code == "sv" %}
+    {% assign translatedUrl = "/" %}
+  {% endif %}
+
+    {% for item in collections.all %}
+    <!-- check matches -->
+    {% if item.data.translationKey == translationKey and item.data.locale == lgg.code %}
+      {% assign translatedUrl = item.url %}
+    {% endif %}
+  {% endfor%}
+
+  <!-- assign current language class -->
+  {% assign activeClass = "is-active" if lgg.code == locale else "" %}
+
+    <a class="lang-link {{ activeClass }}" lang="{{lgg.code}}" href="{{ translatedUrl }}">{{ lgg.label }}</a>
+
+  {% if forloop.last %}</div>{% endif %}
+{% endfor %}

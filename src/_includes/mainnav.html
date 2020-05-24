@@ -1,0 +1,12 @@
+<nav class="main-nav" aria-labelledby="my-pagination">
+  <h2 id="my-pagination" class="vh">{{mainnav[locale].heading}}</h2>
+{% for navitem in mainnav[locale].links %}
+  {% if forloop.first %}<ul>{% endif %}
+    <li>
+      <a href="{{ navitem.url }}" {% if page.url == navitem.url %} class="current" aria-current="page"{% endif %}>
+      {{ navitem.label }}
+      </a>
+    </li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}
+</nav>

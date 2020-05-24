@@ -1,11 +1,8 @@
 {
   "name": "t12t.github.io",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "The t12t Website",
-  "dependencies": {
-    "axe-testcafe": "^1.1.0",
-    "testcafe": "^0.15.0"
-  },
+  "author": "Ida Franceen",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/t12t/t12t.github.io.git"
@@ -15,9 +12,21 @@
     "t12t",
     "accessibility"
   ],
-  "author": "Ida Franceen",
   "bugs": {
     "url": "https://github.com/t12t/t12t.github.io/issues"
   },
-  "homepage": "http://t12t.se"
+  "homepage": "http://t12t.se",
+  "scripts": {
+    "dev": "ELEVENTY_ENV=development eleventy --watch --serve",
+    "prod": "ELEVENTY_ENV=prod eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "cssnano": "^4.1.10",
+    "postcss": "^7.0.30",
+    "postcss-import": "^12.0.1",
+    "postcss-mixins": "^6.2.3",
+    "postcss-nested": "^4.2.1",
+    "postcss-simple-vars": "^5.0.2"
+  }
 }

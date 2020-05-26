@@ -28,5 +28,12 @@
     "postcss-mixins": "^6.2.3",
     "postcss-nested": "^4.2.1",
     "postcss-simple-vars": "^5.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5",
+    "stylelint": "^13.5.0",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-prettier": "^1.1.2"
   }
 }

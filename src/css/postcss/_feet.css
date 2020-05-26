@@ -1,0 +1,29 @@
+.underground {
+  padding: 2.777777778% 7.87037037%;
+}
+
+.related-feet {
+  h2 {
+    color: white;
+  }
+
+  ul {
+    margin: 0 0 20px;
+    padding: 0;
+  }
+
+  li {
+    font-size: 1.8rem;
+    list-style-position: inside;
+  }
+
+  a {
+    display: inline-block;
+    padding: 0.5em 0;
+    font-size: 2rem;
+  }
+
+  p a {
+    padding: 0;
+  }
+}

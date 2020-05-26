@@ -1,4 +1,3 @@
-/*@group Header*/
 header {
   color: white;
   display: flex;
@@ -9,7 +8,7 @@ header a {
 }
 
 .our-wellknown-logo {
-  font-size: 3.25em;
+  font-size: 3.2rem;
   font-family: $header-font;
   padding: 2.777777778% 7.87037037%;
   margin: 0;
@@ -20,74 +19,7 @@ header a {
     display: block;
   }
 }
-/*@group Navz*/
-.lang-nav {
-  display: flex;
-  justify-content: flex-end;
-  padding-right: 7.87037037%;
-}
 
-.lang-nav a {
-  color: white;
-  display: inline-block;
-  padding: 1em 2em 0.3em 0.2em;
-  text-decoration: underline;
-}
-
-.lang-nav a:last-of-type {
-  margin-right: -2em;
-}
-
-@media screen and (min-width: $break-small) {
-  .main-nav {
-    ul {
-      a {
-        font-size: 1.2rem;
-      }
-    }
-  }
-}
-.main-nav {
-  padding: 0 7.87037037%;
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  flex: 1 0 auto;
-
-  ul {
-    list-style: none;
-    overflow: hidden;
-    padding: 0;
-    margin: 0 -0.5em 0 0;
-
-    li {
-      display: inline-block;
-    }
-    a {
-      color: white;
-      display: block;
-      padding: 0.5em 0.5em;
-      margin: 1px; /*makes the outline more visible in fx*/
-      text-decoration: none;
-      white-space: nowrap;
-    }
-
-    a:focus,
-    a:hover {
-      background: $grenadie;
-      border-radius: 5px;
-    }
-
-    .current {
-      background: $grenadie;
-      border-radius: 5px;
-    }
-  }
-}
-/*@end Navz */
-/*@end Header*/
-
-/*@group Main Package*/
 .main-package {
   background: #fff;
   padding: 0 7.87037037%;
@@ -100,33 +32,8 @@ header a {
     background-color: $grenadie;
   }
 }
+
 .package {
   background: #fff;
   padding: 0 7.87037037%;
 }
-/*@end Main Package*/
-
-/*@group Feet*/
-.underground {
-  padding: 2.777777778% 7.87037037%;
-}
-.related-feet {
-  h2 {
-    color: $white;
-  }
-
-  ul {
-    margin: 0 0 20px;
-    padding: 0;
-  }
-  li {
-    list-style-position: inside;
-  }
-
-  a {
-    display: inline-block;
-    padding: 0.5em 0;
-    font-size: 1.2rem;
-  }
-}
-/*@end Feet*/

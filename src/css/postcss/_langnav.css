@@ -1,0 +1,22 @@
+.lang-nav {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 7.87037037%;
+
+  a {
+    color: white;
+    display: inline-block;
+    font-size: 1.6rem;
+    padding: 1em 2em 0.3em 0.2em;
+    text-decoration: none;
+  }
+
+  a:focus,
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+.lang-nav a:last-of-type {
+  margin-right: -2em;
+}

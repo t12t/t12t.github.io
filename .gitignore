@@ -1,8 +1,7 @@
 dist
-
 node_modules
-
 *.orig
+.vscode
 
 ### OSX ###
 .DS_Store

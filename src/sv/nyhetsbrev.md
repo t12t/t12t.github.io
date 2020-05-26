@@ -9,13 +9,15 @@ permalink: /nyhetsbrev/
 
 # t12t Nyhetsbrev
 
-The goal is to spread news, articles and tips on the subject of digital accessibility. This will be more than a bunch of links in an email, there will be opinions. Focus will be on digital accessibility news but the scope will be broad and cute animals are going to be featured.
+Målet är att dela nyheter, artiklar och tips på ämnet digital tillgänglighet. Det är inte bara ett gäng länkar i ett mail, det kommer också vara åsikter. Fokus kommer att vara på digital tillgänglighet men skopet är brett och söta djur utlovas.
 
-If everything goes according to the plan the newsletter will be sent out once a month.
+Det finns i nuläget inget strikt tidsschema för när nyhetsbrevet skickas ut. Ibland kommer det en gång i månaden. Ibland mer sällan.
+
+Observera att nyhetsbrevet är på engelska.
 
 {% include form.html %}
 
-_We use [Mailchimp](https://mailchimp.com) for our newsletter. We promise to not share your email with a third party. There will be a link in the newsletter where you can unsubscribe._
+_Vi använder [Mailchimp](https://mailchimp.com) för vårt nyhetsbrev. Vi lovar att inte dela din email med tredje part. I varje nyhetsbrev finns en länk om du skulle vilja avsluta din prenumeration._
 
 ## Arkiv
 

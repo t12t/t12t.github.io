@@ -1,16 +1,11 @@
 {% include hat.html %}
   <body class="page">
-    {% include langnav.html %}
     {% include header.html %}
     <div class="main-package">
-      <main role="main">
+      <main role="main" id="main">
           {{ content }}
       </main>
     </div>
-    {% if page.lang == 'en' %}
-      {% include feet-en.html %}
-    {% else %}
-      {% include feet.html %}
-    {% endif %}
+    {% include feet.html %}
   </body>
 </html>

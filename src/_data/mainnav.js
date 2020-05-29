@@ -1,6 +1,6 @@
 module.exports = {
   sv: {
-    heading: "Huvudnavigation", 
+    label: "Huvudnavigation",
     links : [
       {
         label: "Meetup",
@@ -17,7 +17,7 @@ module.exports = {
     ]
   },
   en: {
-    heading: "Main navigation", 
+    label: "Main navigation",
     links : [
       {
         label: "Meetup",

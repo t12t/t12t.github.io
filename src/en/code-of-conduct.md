@@ -7,7 +7,7 @@ lang: en
 
 # Code of Conduct
 
-All attendees, speakers, sponsors and volunteers at our events are required to agree with the following code of conduct. Organisers will enforce this code. We expect cooperation from all participants to help ensure a safe environment for everybody.
+All attendees, speakers, sponsors and volunteers at our events and in our other channels are required to agree with the following code of conduct. Organisers will enforce this code. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 ## Need Help?
 
@@ -15,7 +15,7 @@ Get in touch with us via [our meetup-page](https://www.meetup.com/t12t-Stockholm
 
 ## The Quick Version
 
-Our events are dedicated to providing a great and inclusive experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any of our events, including talks, workshops, parties, Twitter, Slack and other online media. Participants violating these rules may be sanctioned or expelled from our event and our Slack-team at the discretion of the conference organisers.
+Our events are dedicated to providing a great and inclusive experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any of our events, including talks, workshops, parties, Twitter, Slack and other online media. Participants violating these rules may be sanctioned or expelled from our event and our other channels at the discretion of the conference organisers.
 
 ## The Less Quick Version
 
@@ -35,6 +35,6 @@ Organisers will be happy to help participants contact venue security or local la
 
 We expect participants to follow these rules at event venues and event-related social events.
 
-Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)  
-Please help by translating or improving: [http://github.com/confcodeofconduct](https://github.com/confcodeofconduct/confcodeofconduct.com)  
+Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+Please help by translating or improving: [http://github.com/confcodeofconduct](https://github.com/confcodeofconduct/confcodeofconduct.com)
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US)

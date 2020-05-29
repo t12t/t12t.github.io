@@ -12,7 +12,7 @@ Find us at [meetup.com som t12t - Stockholm.](https://www.meetup.com/t12t-Stockh
 
 ## Safety and inclusion
 
-We have a [Code of Conduct](https://t12t.se/code-of-conduct/) that we expect everyone to follow.
+We have a [Code of Conduct](/en/code-of-conduct/) that we expect everyone to follow.
 
 ## Speaking
 

@@ -19,3 +19,8 @@ $body-font: "Helvetica Neue", helvetica, arial, sans-serif;
 $break-mini: 20em;
 $break-small: 37.5em;
 $break-medium: 43.75em;
+$break-large: 57.5em;
+
+/* Widths */
+$max-width-wrapper: 1000px;
+$max-width-copy: 620px;

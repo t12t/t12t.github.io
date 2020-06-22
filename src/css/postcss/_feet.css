@@ -1,29 +1,56 @@
 .underground {
-  padding: 2.777777778% 7.87037037%;
+  padding: 2.8% 7.8% 6em;
 }
 
 .related-feet {
+  box-sizing: border-box;
+  max-width: 1000px;
+  margin: 0 auto;
+
   h2 {
     color: white;
   }
 
   ul {
-    margin: 0 0 20px;
+    margin: 0 0 1em;
     padding: 0;
   }
 
   li {
-    font-size: 1.8rem;
     list-style-position: inside;
+    white-space: nowrap;
   }
 
   a {
     display: inline-block;
-    padding: 0.5em 0;
-    font-size: 2rem;
+    padding: 0.3em 0;
+  }
+
+  p {
+    max-width: 620px;
   }
 
   p a {
     padding: 0;
+  }
+}
+
+@media screen and (min-width: $break-medium) {
+  .related-feet {
+    display: flex;
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .related-feet-list:nth-child(1) {
+    max-width: 230px;
+    width: 45%;
+  }
+
+  .related-feet-list:nth-child(2) {
+    max-width: 400px;
+    padding: 0 3em;
+    width: 55%;
   }
 }

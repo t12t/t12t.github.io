@@ -1,8 +1,21 @@
 {% include hat.html %}
-	<body class="start">
-	{% include header.html %}
-      <main role="main">
+  <body>
+    {% include header.html %}
+      <main role="main" id="main">
+        <div class="introduction-package">
+          <div class="introduction">
+          <h1>{{introduction[locale].heading}}</h1>
+          <p>
+            {{introduction[locale].copy}}
+          </p>
+          </div>
+          <img src="/images/mole.svg" role="image" alt="mullvaden med pliriga ögon" />
+        </div>
+        <div class="main-package">
+          <div class="teaser-package">
           {{ content }}
+          </div>
+        </div>
       </main>
     {% include feet.html %}
   </body>

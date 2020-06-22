@@ -1,19 +1,49 @@
 header {
   color: white;
-  display: flex;
+  margin: 0 auto;
+  max-width: $max-width-wrapper;
+  position: relative;
+  padding: 0 7.8%;
 }
 
 header a {
   color: white;
 }
 
+.skip-to-main {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+  box-sizing: border-box;
+
+  &:focus,
+  &:active {
+    display: block;
+    font-size: 1.6rem;
+    padding: 15px;
+    padding: 1.5rem;
+    position: static;
+    background: $zeus;
+    text-align: center;
+    color: #fff;
+    border-bottom: 2px solid white;
+    width: 100%;
+    height: auto;
+    clip: auto;
+  }
+}
+
 .our-wellknown-logo {
-  font-size: 3.2rem;
+  font-size: 1.8rem;
   font-family: $header-font;
-  padding: 2.777777778% 7.87037037%;
+  padding: 1.4em 7.8% 1.4em 0;
   margin: 0;
-  display: block;
-  flex: 0 0 auto;
+  display: inline-block;
 
   a {
     display: block;
@@ -22,7 +52,13 @@ header a {
 
 .main-package {
   background: #fff;
-  padding: 0 7.87037037%;
+
+  main {
+    box-sizing: border-box;
+    padding: 0 7.8% 7.8%;
+    max-width: 910px;
+    margin: 0 auto;
+  }
 
   a {
     color: $grenadie;
@@ -35,5 +71,5 @@ header a {
 
 .package {
   background: #fff;
-  padding: 0 7.87037037%;
+  padding: 0 7.8%;
 }

@@ -1,32 +1,69 @@
-.start main {
-  padding: 0;
-}
-
-.start .package {
-  overflow: hidden;
-  padding: 2.777777778% 7.87037037%;
-}
-
 .introduction-package {
   background: $zeus;
+  color: white;
+  margin: 0 auto;
+  max-width: $max-width-wrapper;
+  position: relative;
+  padding: 0 7.8%;
+
+  img {
+    max-width: 100%;
+    transform: translateY(17%);
+    display: block;
+    margin: 0 auto;
+  }
 }
 
-.introduction h2 {
-  font-size: 2.5em;
-}
-
-.introduction h2,
-.introduction p {
-  color: $white;
-}
-
-@media screen and (min-width: $break-small) {
-  .introduction {
-    max-width: 575px;
-    float: right;
+.introduction {
+  h2 {
+    font-size: 2.5em;
   }
 
-  .introduction h2 {
-    font-size: 3em;
+  h2,
+  p {
+    color: $white;
+  }
+}
+
+.teaser-package {
+  padding: 8em 7.8% 4em;
+  max-width: $max-width-wrapper;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: $break-medium) {
+  .introduction-package {
+    display: flex;
+    flex-direction: row-reverse;
+
+    img {
+      min-width: 50%;
+      max-width: 450px;
+      align-self: last baseline;
+    }
+  }
+
+  .introduction {
+    align-self: center;
+    padding: 2em;
+
+    h1 {
+      padding-top: 0;
+    }
+  }
+}
+
+@media screen and (min-width: $break-large) {
+  .teaser-package {
+    display: flex;
+    gap: 3em;
+  }
+
+  .teaser {
+    width: calc(100% / 3);
+
+    h2 {
+      padding-top: 0;
+    }
   }
 }

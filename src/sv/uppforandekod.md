@@ -3,6 +3,7 @@ layout: default
 title: Uppförandekod
 description: Vi vill skapa en trygg och inkluderande miljö för alla. Därför tillämpar vi en uppförandkod.
 lang: sv
+translationKey: codeofconduct
 permalink: /uppforandekod/
 ---
 

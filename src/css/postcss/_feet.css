@@ -41,16 +41,30 @@
     flex-shrink: 0;
     flex-wrap: wrap;
     justify-content: space-between;
+    gap: 3em;
   }
 
   .related-feet-list:nth-child(1) {
-    max-width: 230px;
-    width: 45%;
+    max-width: 200px;
+    width: 30%;
   }
 
   .related-feet-list:nth-child(2) {
-    max-width: 400px;
-    padding: 0 3em;
-    width: 55%;
+    max-width: 600px;
+    width: 65%;
+  }
+}
+
+@media screen and (min-width: $break-large) {
+  .related-feet {
+    flex-wrap: nowrap;
+  }
+
+  .related-feet-list {
+    width: calc(100% / 3);
+  }
+
+  .related-feet-list:nth-child(1) {
+    max-width: none;
   }
 }

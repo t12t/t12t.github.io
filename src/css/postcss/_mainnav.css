@@ -49,6 +49,10 @@
     ul {
       display: flex;
     }
+
+    a {
+      padding-left: 1em;
+    }
   }
 
   .lang-nav {
@@ -57,7 +61,7 @@
 
     a {
       font-size: 1.8rem;
-      padding: 1em 1em 1em 0;
+      padding: 1em;
     }
   }
 }

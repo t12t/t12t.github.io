@@ -8,9 +8,24 @@ lang: en
 
 # Contact
 
-## Our Slack
+You can get in touch with us via multiple channels.
 
-Vår Slack startade som ett verktyg för att organisera våra meetups. Nu har vi
-öppnat upp den för alla intresserade. Vi hoppas att Slack kan fungera som en
-bra plats att träffas på digitalt.
+## Via meetup.com
+
+If you are a member of our meetup group you can send us messages.
+
+## Via Slack
+
+Our Slack started as a tool for us to organise our meetups. Nowadays it's open to everyone interested. We hope that Slack can work as a good place to meet and discuss digitally. It's also a place to get in touch with us organisers.
+
 [Join our Slack!](https://join.slack.com/t/t12t/shared_invite/enQtNjA5NDYyOTExNjY4LTFjYmQ3MmI4N2I0YTIyZjgzMmMxMWYxNjNhYTJlNDM3Zjk3NmNhNjA1NTFiZWI5ZmZmYmE4NjRmMDIzNDUwNTE)
+
+## Via Twitter
+
+We are on Twitter as @t12t and our DM's are open.
+
+## Via LinkedIn
+
+## Via Github
+
+We have a couple of repositories on our Github. You can also find the source of this website there. Issues and pull requests are welcome.

@@ -7,7 +7,7 @@ translationKey: newsletter
 permalink: /nyhetsbrev/
 ---
 
-# t12t Nyhetsbrev
+# Nyhetsbrev
 
 Målet är att dela nyheter, artiklar och tips på ämnet digital tillgänglighet. Det är inte bara ett gäng länkar i ett mail, det kommer också vara åsikter. Fokus kommer att vara på digital tillgänglighet men skopet är brett och söta djur utlovas.
 

@@ -6,7 +6,7 @@ translationKey: newsletter
 lang: en
 ---
 
-# t12t Accessibility Newsletter
+# Newsletter
 
 The goal is to spread news, articles and tips on the subject of digital accessibility. This will be more than a bunch of links in an email, there will be opinions. Focus will be on digital accessibility news but the scope will be broad and cute animals are going to be featured.
 

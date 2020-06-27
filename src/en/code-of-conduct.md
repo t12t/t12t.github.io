@@ -2,6 +2,7 @@
 layout: default
 title: Code of Conduct
 description: We want our events to be safe and for people to feel welcome. That's why we enforce a Code of Conduct.
+translationKey: codeofconduct
 lang: en
 ---
 

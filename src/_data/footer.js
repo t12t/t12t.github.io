@@ -1,7 +1,7 @@
 module.exports = {
   sv: {
     heading : {
-      elsewhere: "På andra ställen",
+      elsewhere: "Andra ställen",
       more: "Mer om tillgänglighet",
       safety: "Säkerhet och inkludering"
     },

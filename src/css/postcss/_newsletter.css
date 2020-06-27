@@ -48,6 +48,7 @@
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
+  font-size: 1.6rem;
 }
 
 #mc_embed_signup input[type="checkbox"] {
@@ -71,7 +72,7 @@
   color: #ffff;
   cursor: pointer;
   display: inline-block;
-  font-size: 15px;
+  font-size: 1.6rem;
   font-weight: normal;
   height: 32px;
   line-height: 32px;
@@ -134,7 +135,7 @@
 
 #mc_embed_signup .indicates-required {
   text-align: right;
-  font-size: 11px;
+  font-size: 1.6rem;
   margin-right: 4%;
 }
 
@@ -234,7 +235,7 @@
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  font-size: 14px;
+  font-size: 1.6em;
   font-weight: normal;
   z-index: 1;
   color: #e85c41;

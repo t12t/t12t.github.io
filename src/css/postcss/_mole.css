@@ -20,9 +20,17 @@
   }
 }
 
-#paw {
+#left-paw {
   animation-name: paw;
-  animation-duration: 20s;
+  animation-duration: 18s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+#right-paw {
+  animation-name: paw;
+  animation-duration: 15s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
   animation-direction: alternate;

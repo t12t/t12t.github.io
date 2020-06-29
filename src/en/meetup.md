@@ -8,7 +8,7 @@ translationKey: meetup
 
 # Meetup
 
-Find us at [meetup.com som t12t - Stockholm.](https://www.meetup.com/t12t-Stockholm)
+Find us at [meetup.com as t12t - Stockholm.](https://www.meetup.com/t12t-Stockholm)
 
 ## Next meetup
 

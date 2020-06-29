@@ -1,22 +1,19 @@
-{% for lgg in langnav.languages %}
-
-  {% comment %} assign translatedUrl to the homepage of that language by default {% endcomment %}
-  {% capture translatedUrl %}/{{ lgg.code }}/{% endcapture %}
-  {% if lgg.code == "sv" %}
-    {% assign translatedUrl = "/" %}
-  {% endif %}
-
-    {% for item in collections.all %}
-    {% comment %} Check matches {% endcomment %}
-    {% if item.data.translationKey == translationKey and item.data.locale == lgg.code %}
-      {% assign translatedUrl = item.url %}
-    {% endif %}
-  {% endfor%}
-
-  {% comment %} Assign current language {% endcomment %}
-  {% if lgg.code != locale %}
+{%- for lgg in langnav.languages -%}
+  {%- comment -%} Assign translatedUrl to the homepage of that language by default {%- endcomment -%}
+  {%- capture translatedUrl -%}/{{ lgg.code }}/{% endcapture %}
+  {%- if lgg.code == "sv" -%}
+    {%- assign translatedUrl = "/" -%}
+  {%- endif -%}
+    {%- for item in collections.all -%}
+    {%- comment -%} Check matches {% endcomment -%}
+    {%- if item.data.translationKey == translationKey and item.data.locale == lgg.code -%}
+      {%- assign translatedUrl = item.url -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- comment -%} Assign current language {%- endcomment -%}
+  {%- if lgg.code != locale -%}
     <li class="lang-nav">
-      <a class="lang-link" lang="{{lgg.code}}" href="{{ translatedUrl }}">{{ lgg.label }}</a>
+      <a class="lang-link" hreflang="{{lgg.code}}" lang="{{lgg.code}}" href="{{ translatedUrl }}">{{ lgg.label }}</a>
     </li>
-  {% endif %}
-{% endfor %}
+  {%- endif -%}
+{%- endfor -%}

@@ -43,7 +43,7 @@
 @media screen and (min-width: $break-medium) {
   .main-nav {
     position: absolute;
-    top: 1em;
+    top: 1.8em;
     right: 7.8%;
 
     ul {

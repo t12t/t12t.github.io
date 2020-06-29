@@ -22,9 +22,7 @@ Our Slack started as a tool for us to organise our meetups. Nowadays it's open t
 
 ## Via Twitter
 
-We are on Twitter as @t12t and our DM's are open.
-
-## Via LinkedIn
+We are [on Twitter as @t12t](https://twitter.com/t12t) and our DM's are open.
 
 ## Via Github
 

@@ -8,9 +8,10 @@
     <meta charset="utf-8">
     <meta name="description" content="{{ description }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if title %} {{ title }} - {% endif %} t12t</title>
+    <title>{%- if title -%} {{ title }} - {% endif %}t12t</title>
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Patua+One:300,400,700">
     <link rel="stylesheet" href="/css/styles.css">
+    <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png">
@@ -19,4 +20,16 @@
     <link rel="shortcut icon" href="/images/favicons/favicon.ico">
     <meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
     <meta name="theme-color" content="#2b1f1a">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://t12t.se">
+    <meta property="og:title" content="{% if title %} {{ title }} - {% endif %} t12t">
+    <meta property="og:description" content="{{ description }}">
+    <meta property="og:image" content="/images/opengraph.png">
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://metatags.io/">
+    <meta property="twitter:title" content="{% if title %} {{ title }} - {% endif %} t12t">
+    <meta property="twitter:description" content="{{ description }}">
+    <meta property="twitter:image" content="/images/opengraph.png">
   </head>

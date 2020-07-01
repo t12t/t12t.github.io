@@ -10,7 +10,7 @@ module.exports = class {
   async data () {
     const rawFilepath = path.join(__dirname, `../css/postcss/${fileName}`);
     return {
-      permalink: `css/${fileName}`,
+      permalink: `assets/css/${fileName}`,
       rawFilepath,
       rawCss: await fs.readFileSync(rawFilepath)
     };

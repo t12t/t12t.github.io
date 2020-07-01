@@ -4,9 +4,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('start', 'layouts/start.html');
 
   // pass some assets right through
-  eleventyConfig.addPassthroughCopy("./src/images/");
+  eleventyConfig.addPassthroughCopy("./src/assets/images/");
+  eleventyConfig.addPassthroughCopy("./src/assets/fonts/");
 
-  eleventyConfig.addWatchTarget("./src/css/postcss/*.css")
+  eleventyConfig.addWatchTarget("./src/assets/css/postcss/*.css")
 
   return {
     dir: {

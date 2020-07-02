@@ -5,7 +5,7 @@ module.exports = {
       code: "sv"
     },
     {
-      label: "In english",
+      label: "In English",
       code: "en"
     }
   ]

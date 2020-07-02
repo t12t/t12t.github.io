@@ -7,10 +7,11 @@
   padding: 0 7.8%;
 
   .mole {
+    display: block;
+    height: auto;
+    margin: 0 auto;
     max-width: 100%;
     transform: translateY(17%);
-    display: block;
-    margin: 0 auto;
   }
 }
 
@@ -42,8 +43,9 @@
 
     .mole {
       min-width: 50%;
+      height: 50%;
       max-width: 450px;
-      align-self: last baseline;
+      align-self: flex-end;
     }
   }
 

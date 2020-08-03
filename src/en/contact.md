@@ -8,11 +8,11 @@ lang: en
 
 # Contact
 
-You can get in touch with us via multiple channels.
+You can get in touch with us via multiple channels. Choose the way that suits you the best!
 
 ## Via meetup.com
 
-If you are a member of our meetup group you can send us messages.
+If you are a member of [our meetup group](https://www.meetup.com/t12t-Stockholm/) you can send us messages.
 
 ## Via Slack
 
@@ -26,4 +26,4 @@ We are [on Twitter as @t12t](https://twitter.com/t12t) and our DM's are open.
 
 ## Via Github
 
-We have a couple of repositories on our Github. You can also find the source of this website there. Issues and pull requests are welcome.
+We have a couple of [repositories on our Github](https://github.com/t12t). You can also find [the source of this website](https://github.com/t12t/t12t.github.io) there. Maybe you found something that needs to be fixed on this site? Issues and pull requests are welcome!

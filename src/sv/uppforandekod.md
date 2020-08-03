@@ -21,7 +21,7 @@ Kontakta oss via [vår meetup-sida](https://www.meetup.com/t12t-Stockholm), [vå
 Det är viktigt för oss att erbjuda en trygg och inkluderande
 upplevelse för alla - och vi är måna om att deltagare som bidrar
 till en ökad mångfald känner sig välkomna. En viktig förutsättning är att
-våra event och våra kanalerr är fria från trakasserier - dvs uppträdanden som kränker någons värdighet - och det är den som påverkas som avgör om ett beteende känns ok
+våra event och våra kanaler är fria från trakasserier - dvs uppträdanden som kränker någons värdighet - och det är den som påverkas som avgör om ett beteende känns ok
 eller inte. Sexuellt eller fördomsfullt språk och bildspråk ska undvikas i
 samtliga kanaler och sammanhang, inklusive föredrag, workshops, fester,
 Twitter, Slack och andra kanaler online etc. Deltagare som - enligt arrangörens ensidiga bedömning – bryter mot dessa regler kan avvisas från våra event och portas från våra andra kanaler.

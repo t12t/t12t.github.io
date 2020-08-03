@@ -11,7 +11,7 @@ permalink: /meetup/
 
 T12t startade som en meetup-grupp 2013. Sedan dess har vi haft en mängd meetups och i nuläget försöker vi se till att ha fyra meetups per år. Vi har meetups på både svenska och engelska. Vilket språk det blir beror på vilka vi samarbetar med, vilka talare vi har etc.
 
-Du hittar oss på [meetup.com som t12t - Stockholm.](https://www.meetup.com/t12t-Stockholm).
+Du hittar oss på [meetup.com som t12t - Stockholm](https://www.meetup.com/t12t-Stockholm).
 
 ## Nästa meetup
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nyhetsbrev
-description: Trying to inspire and spread knowledge about Web Accessibility
+description: I vårt nyhetsbrev delar vi länkar, artiklar och tips på ämnet digital tillgänglighet.
 lang: sv
 translationKey: newsletter
 permalink: /nyhetsbrev/

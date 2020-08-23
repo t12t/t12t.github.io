@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accessibility Newsletter
-description: Trying to inspire and spread knowledge about Web Accessibility
+description: In our newsletter we share links, articles and tips on the subject of digital accessibility.
 translationKey: newsletter
 lang: en
 ---

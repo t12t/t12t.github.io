@@ -35,7 +35,7 @@ The production command builds the site in the same way it will be built in produ
 npm run build
 ```
 
-This command doesn't start a server but you can use any server of your choice to view the built site. A suggestion is [to install serve](https://www.npmjs.com/package/serve)
+This command doesn't start a server but you can use any server of your choice to view the built site. A suggestion is [to install serve](https://www.npmjs.com/package/serve).
 
 ## Deployment
 

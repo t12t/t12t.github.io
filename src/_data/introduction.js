@@ -6,7 +6,7 @@ module.exports = {
   },
   en: {
     heading: "Hello accessibility!",
-    copy : "T12t, means accessibility and it's the swedish equivalent to a11y, a numeronym for accessibility. Our focus is digital accessibility. We want to be aplace for people to meet and learn from one another.",
+    copy : "T12t, means accessibility and it's the swedish equivalent to a11y, a numeronym for accessibility. Our focus is digital accessibility. We want to be a place for people to meet and learn from one another.",
     alt: "A mole with pink paws and small eyes behind glasses is holding on to a section of the page"
   }
 };

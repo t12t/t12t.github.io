@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meetup
-description: Trying to inspire and spread knowledge about Web Accessibility
+description: Vi anordnar fyra meetups per år på både svenska och engelska.
 lang: sv
 translationKey: meetup
 permalink: /meetup/

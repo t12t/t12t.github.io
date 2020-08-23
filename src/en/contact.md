@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-description: Trying to inspire and spread knowledge about Web Accessibility
+description: Get in touch with us via channels like Meetup.com, Slack, Twitter and more.
 translationKey: contact
 lang: en
 ---

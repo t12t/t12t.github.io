@@ -6,6 +6,7 @@ module.exports = function(eleventyConfig) {
   // pass some assets right through
   eleventyConfig.addPassthroughCopy("./src/assets/images/");
   eleventyConfig.addPassthroughCopy("./src/assets/fonts/");
+  eleventyConfig.addPassthroughCopy("./src/robots.txt");
 
   eleventyConfig.addWatchTarget("./src/assets/css/postcss/*.css")
 

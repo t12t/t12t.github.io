@@ -17,21 +17,22 @@
   },
   "homepage": "http://t12t.se",
   "scripts": {
+    "lint": "stylelint ./src/**/*.css --fix",
     "dev": "ELEVENTY_ENV=development eleventy --watch --serve",
     "prod": "ELEVENTY_ENV=prod eleventy"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
     "cssnano": "^4.1.10",
-    "postcss": "^7.0.32",
+    "postcss": "^7.0.34",
     "postcss-import": "^12.0.1",
     "postcss-mixins": "^6.2.3",
     "postcss-nested": "^4.2.3",
     "postcss-simple-vars": "^5.0.2"
   },
   "devDependencies": {
-    "prettier": "^2.0.5",
-    "stylelint": "^13.6.1",
+    "prettier": "^2.1.2",
+    "stylelint": "^13.7.2",
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-prettier": "^1.1.2"

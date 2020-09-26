@@ -15,11 +15,11 @@ Du hittar oss på [meetup.com som t12t - Stockholm](https://www.meetup.com/t12t-
 
 ## Nästa meetup
 
-Vi planerar just nu för ett nästa meetup i september. Det kommer troligtvis att bli ett digitalt meetup. Se till att [gå med i vår meetup grupp](https://www.meetup.com/t12t-Stockholm) så får du uppdateringar om exakt datum och tid!
+Vi har inte planerat vårt nästa meetup än men vi tittar på att arrangera något den 17:e november. Se till att [gå med i vår meetup grupp](https://www.meetup.com/t12t-Stockholm) så får du uppdateringar om exakt datum och tid!
 
 ## Senaste meetupet
 
-Vårt senaste meetup var 19:e maj i samband med GAAD-dagen. [På vår Youtube finns videos](https://www.youtube.com/watch?v=AJi0lqpHqZw). Mer [info om talare och ämnen finns på vår meetupsida](https://www.meetup.com/t12t-Stockholm/events/270587932/).
+Vårt senaste meetup var 23:e september, samma dag som webbtillgänglighetsdirektivet trädde i kraft. [På vår Youtube finns live-video](https://www.youtube.com/watch?v=N1A0uPjdZxs). Mer [info om talare och ämnen finns på vår meetupsida](https://www.meetup.com/t12t-Stockholm/events/272807791/).
 
 ## Säkerhet och inkludering
 

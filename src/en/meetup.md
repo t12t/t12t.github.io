@@ -14,11 +14,11 @@ Find us at [meetup.com as t12t - Stockholm.](https://www.meetup.com/t12t-Stockho
 
 ## Next meetup
 
-We are looking into having our next meetup in September 2020. It will mostly likely be a digital meetup. To get notified of exact date and time make sure you [join our meetup group!](https://www.meetup.com/t12t-Stockholm)
+Our next meetup is not yet planned but we are looking into arranging something on November 17th. To get notified of exact date and time make sure you [join our meetup group!](https://www.meetup.com/t12t-Stockholm)
 
 ## Previous meetup
 
-Our last meetup was on May 19th in connection with GAAD. [You can find videos on our Youtube channel](https://www.youtube.com/watch?v=AJi0lqpHqZw). More [info on speakers and subjects can be found on our meetup page](https://www.meetup.com/t12t-Stockholm/events/270587932/).
+Our last meetup was on September 23rd, the same day as the Web Accessibility Directive went into effect. [You can find the live video on our Youtube channel](https://www.youtube.com/watch?v=N1A0uPjdZxs). More [info on speakers and subjects can be found on our meetup page](https://www.meetup.com/t12t-Stockholm/events/272807791/).
 
 ## Safety and inclusion
 

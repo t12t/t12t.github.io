@@ -3,7 +3,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('default', 'layouts/default.html');
   eleventyConfig.addLayoutAlias('start', 'layouts/start.html');
 
-  // pass some assets right through
+  // Pass some assets right through
   eleventyConfig.addPassthroughCopy("./src/assets/images/");
   eleventyConfig.addPassthroughCopy("./src/assets/fonts/");
   eleventyConfig.addPassthroughCopy("./src/robots.txt");

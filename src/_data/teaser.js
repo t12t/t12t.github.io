@@ -6,7 +6,7 @@ module.exports = {
     },
     {
       heading : "Vårt nyhetsbrev",
-      copy :  "I vårt nyhetsbrev sprider vi artiklar, tips och nyheter runt digital tillgänglighet. Mer info och <a href='/accessibility-newsletter'> anmälan finns på nyhetsbrev-sidan.</a>"
+      copy :  "I vårt nyhetsbrev sprider vi artiklar, tips och nyheter runt digital tillgänglighet. Mer info och <a href='/nyhetsbrev'> anmälan finns på nyhetsbrev-sidan.</a>"
     },
     {
       heading: "Vår Slack",

@@ -1,0 +1,19 @@
+ <html>
+ <head>
+     <meta charset="utf-8"/>
+     <meta http-equiv="refresh" content="1;url={{ redirect }}"/>
+     <link rel="canonical" href="{{ redirect }}"/>
+     <script type="text/javascript">
+      window.location.href = "{{ redirect }}"
+     </script>
+     <title>t12t - Page Redirection</title>
+ </head>
+  <body class="page">
+    {% include header.html %}
+    <div class="main-package">
+      <main role="main" id="main">
+        If you are not redirected automatically, <a href='{{ redirect }}'>follow this link</a> or use the navigation.
+      </main>
+    </div>
+  </body>
+</html>

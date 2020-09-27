@@ -1,9 +1,8 @@
-_site
-
-.sass-cache
+dist
 node_modules
-
+lighthouse/logs
 *.orig
+.vscode
 
 ### OSX ###
 .DS_Store

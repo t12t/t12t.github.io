@@ -1,0 +1,26 @@
+/* Global vars and whatever stuff or wait… no! Simply vars and stuff only */
+
+/* Colors - names from http://name-of-color.com */
+$white: #fff;
+$black: #000;
+$blaze-orange: #f95e00;
+$grenadie: #d14905;
+$zeus: #2b1f1a;
+$vista-blue: #8ed5b6;
+$selective-yellow: #fb0;
+$golden-glow: #ffea94;
+$acapulco: #80bfa3;
+
+/* Fonts */
+$header-font: "Patua One", serif;
+$body-font: "Helvetica Neue", helvetica, arial, sans-serif;
+
+/* Mediaqueries */
+$break-mini: 20em;
+$break-small: 37.5em;
+$break-medium: 43.75em;
+$break-large: 57.5em;
+
+/* Widths */
+$max-width-wrapper: 1000px;
+$max-width-copy: 620px;

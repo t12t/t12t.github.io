@@ -1,42 +1,42 @@
-t12t
-=========
-
-The t12t Website
+# t12t Website
 
 ## Dependencies
 
-* [Ruby](https://www.ruby-lang.org/en/)
-* [RubyGems](https://rubygems.org/)
-* [Bundler](http://bundler.io/)
-* [Jekyll](https://github.com/mojombo/jekyll/)
+- [Node](https://nodejs.org)
+- [Npm](https://www.npmjs.com)
 
-## Setting up stuff
+## Getting started
 
-* Make sure Ruby is up to date v.2+ (Right now there are issues with 2.4.x so try 2.3.x)
-* Make sure Gem is available and updated.
-* Clone project.
-* Go to project-directory in Terminal.
-* Install Jekyll bundler:
+This site is built with [Eleventy, a static site generator](https://www.11ty.dev/).
+
+### Setup
+
+Run the following in your terminal.
 
 ```
-gem install jekyll bundler
+git clone https://github.com/t12t/t12t.github.io.git
+cd t12t.github.io
+npm install
 ```
 
-* Run Jekyll
+### Development
+
+The development command sets up watchers for relevant files, and starts the build with Eleventy.
 
 ```
-bundle exec jekyll serve
+npm run dev
 ```
 
-* Hopefully you are good to go at [localhost:4000](http://localhost:4000) ^.^
+### Production Build
 
-## Run tests
-
-* Run `npm install` if you haven't alreday.
-* Make sure the application is running. 
+The production command builds the site in the same way it will be built in production.
 
 ```
-testcafe chrome
+npm run build
 ```
 
-Ps. It's totally ok to replace `chrome` with your browser of choice
+This command doesn't start a server but you can use any server of your choice to view the built site. A suggestion is [to install serve](https://www.npmjs.com/package/serve).
+
+## Deployment
+
+The site will be deployed whenever something is merged to the master branch. We are hosting our site on Github and we are using Github actions for our deploys.

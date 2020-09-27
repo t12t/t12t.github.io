@@ -1,0 +1,80 @@
+.introduction-package {
+  background: $zeus;
+  color: white;
+  margin: 0 auto;
+  max-width: $max-width-wrapper;
+  position: relative;
+  padding: 0 7.8%;
+
+  .mole {
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    max-width: 100%;
+    transform: translateY(17%);
+  }
+}
+
+.introduction {
+  h1 {
+    padding-top: 0.5em;
+  }
+
+  h2 {
+    font-size: 2.5em;
+  }
+
+  h2,
+  p {
+    color: $white;
+  }
+}
+
+.teaser-package {
+  padding: 5em 7.8% 5em;
+  max-width: $max-width-wrapper;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: $break-medium) {
+  .introduction-package {
+    display: flex;
+    flex-direction: row-reverse;
+
+    .mole {
+      min-width: 50%;
+      height: 50%;
+      max-width: 450px;
+      align-self: flex-end;
+    }
+  }
+
+  .introduction {
+    align-self: center;
+    padding: 2em;
+
+    h1 {
+      padding-top: 0;
+    }
+  }
+}
+
+@media screen and (min-width: $break-large) {
+  .teaser-package {
+    display: flex;
+    padding-top: 9.5em;
+  }
+
+  .teaser {
+    width: calc(100% / 3);
+    margin: 0 3em 0 0;
+
+    h2 {
+      padding-top: 0;
+    }
+  }
+
+  .teaser:last-child {
+    margin: 0;
+  }
+}

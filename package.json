@@ -1,11 +1,8 @@
 {
   "name": "t12t.github.io",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "The t12t Website",
-  "dependencies": {
-    "axe-testcafe": "^1.1.0",
-    "testcafe": "^0.15.0"
-  },
+  "author": "Ida Franceen",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/t12t/t12t.github.io.git"
@@ -15,9 +12,36 @@
     "t12t",
     "accessibility"
   ],
-  "author": "Ida Franceen",
   "bugs": {
     "url": "https://github.com/t12t/t12t.github.io/issues"
   },
-  "homepage": "http://t12t.se"
+  "homepage": "http://t12t.se",
+  "scripts": {
+    "lint": "stylelint ./src/**/*.css --fix",
+    "test-pa11y": "./node_modules/.bin/pa11y-ci",
+    "test-lighthouse": "node lighthouse/index.js",
+    "dev": "ELEVENTY_ENV=development eleventy --watch --serve",
+    "local-prod": "ELEVENTY_ENV=prod eleventy && cd dist && serve .",
+    "prod": "ELEVENTY_ENV=prod eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "cssnano": "^4.1.10",
+    "postcss": "^7.0.34",
+    "postcss-import": "^12.0.1",
+    "postcss-mixins": "^6.2.3",
+    "postcss-nested": "^4.2.3",
+    "postcss-simple-vars": "^5.0.2"
+  },
+  "devDependencies": {
+    "lighthouse": "^6.3.0",
+    "open": "^7.2.1",
+    "pa11y-ci": "^2.4.0",
+    "prettier": "^2.1.2",
+    "serve": "^11.3.2",
+    "stylelint": "^13.7.2",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-prettier": "^1.1.2"
+  }
 }

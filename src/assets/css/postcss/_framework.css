@@ -1,0 +1,76 @@
+header {
+  color: white;
+  margin: 0 auto;
+  max-width: $max-width-wrapper;
+  position: relative;
+  padding: 0 7.8%;
+}
+
+header a {
+  color: white;
+}
+
+.skip-to-main {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+  box-sizing: border-box;
+
+  &:focus,
+  &:active {
+    display: block;
+    font-size: 1.6rem;
+    padding: 15px;
+    padding: 1.5rem;
+    position: static;
+    background: $zeus;
+    text-align: center;
+    color: #fff;
+    border-bottom: 2px solid white;
+    width: 100%;
+    height: auto;
+    clip: auto;
+  }
+}
+
+.our-wellknown-logo {
+  font-size: 1.8rem;
+  font-family: $header-font;
+  line-height: 0;
+  padding: 1.4em 7.8% 1.4em 0;
+  margin: 0;
+  display: inline-block;
+
+  a {
+    display: block;
+  }
+}
+
+.main-package {
+  background: #fff;
+
+  main {
+    box-sizing: border-box;
+    padding: 0 7.8% 7.8%;
+    max-width: 910px;
+    margin: 0 auto;
+  }
+
+  a {
+    color: $grenadie;
+  }
+
+  button {
+    background-color: $grenadie;
+  }
+}
+
+.package {
+  background: #fff;
+  padding: 0 7.8%;
+}

@@ -1,0 +1,73 @@
+.main-nav {
+  padding: 0 0 1em;
+
+  ul {
+    list-style: none;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    display: inline-block;
+  }
+
+  a {
+    color: white;
+    display: block;
+    font-size: 1.8rem;
+    padding: 1em 1em 1em 0;
+    margin: 1px; /* makes the outline more visible in fx */
+    white-space: nowrap;
+  }
+}
+
+.lang-nav {
+  position: absolute;
+  top: 1em;
+  right: 7.8%;
+
+  svg {
+    padding-right: 8px;
+    position: relative;
+    top: 3px;
+  }
+
+  a {
+    display: inline-block;
+    font-size: 1.6rem;
+    padding: 0 0 1em 1em;
+    white-space: nowrap;
+
+    &:hover,
+    &:focus {
+      background: none;
+    }
+  }
+}
+
+@media screen and (min-width: $break-medium) {
+  .main-nav {
+    position: absolute;
+    top: 1.8em;
+    right: 7.8%;
+
+    ul {
+      display: flex;
+    }
+
+    a {
+      padding-left: 1em;
+    }
+  }
+
+  .lang-nav {
+    position: static;
+    order: 1;
+
+    a {
+      font-size: 1.8rem;
+      padding: 1em;
+    }
+  }
+}

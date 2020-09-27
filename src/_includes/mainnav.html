@@ -1,0 +1,12 @@
+<nav class="main-nav" role="navigation">
+  <ul aria-label="{{mainnav[locale].label}}">
+    {% include langnav.html %}
+      {% for navitem in mainnav[locale].links %}
+      <li>
+        <a href="{{ navitem.url }}" {% if page.url == navitem.url %} class="current" aria-current="page"{% endif %}>
+        {{ navitem.label }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

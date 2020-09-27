@@ -1,0 +1,70 @@
+@keyframes paw {
+  0% {
+    transform: translateX(0);
+  }
+
+  36% {
+    transform: translateX(0);
+  }
+
+  40% {
+    transform: translateX(-10px);
+  }
+
+  44% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+#left-paw {
+  animation-name: paw;
+  animation-duration: 18s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+#right-paw {
+  animation-name: paw;
+  animation-duration: 15s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes nose {
+  0% {
+    transform: translateX(0);
+  }
+
+  5% {
+    transform: translateY(-3px);
+  }
+
+  7% {
+    transform: translateY(0);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+#nose {
+  animation-name: nose;
+  animation-duration: 10s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #paw,
+  #nose {
+    animation: none;
+  }
+}

@@ -1,0 +1,39 @@
+{% include hat.html %}
+  <body>
+    {% include header.html %}
+      <main role="main" id="main">
+        <div class="introduction-package">
+          <div class="introduction">
+          <h1>{{introduction[locale].heading}}</h1>
+          <p>
+            {{introduction[locale].copy}}
+          </p>
+          </div>
+          {% include mole.html %}
+        </div>
+        <div class="main-package">
+          <div class="teaser-package">
+            <div class="teaser">
+              <h2>{{teaser[locale].teaser[0].heading}}</h2>
+              <p>
+                  {{teaser[locale].teaser[0].copy}}
+              </p>
+            </div>
+            <div class="teaser">
+              <h2>{{teaser[locale].teaser[1].heading}}</h2>
+              <p>
+                {{teaser[locale].teaser[1].copy}}
+              </p>
+            </div>
+            <div class="teaser">
+              <h2>{{teaser[locale].teaser[2].heading}}</h2>
+              <p>
+                {{teaser[locale].teaser[2].copy}}
+              </p>
+            </div>
+          </div>
+        </div>
+      </main>
+    {% include feet.html %}
+  </body>
+</html>

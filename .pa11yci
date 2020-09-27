@@ -1,0 +1,12 @@
+{
+    "urls": [
+        "http://localhost:8080",
+        "http://localhost:8080/meetup/",
+        "http://localhost:8080/nyhetsbrev/",
+        "http://localhost:8080/kontakt/",
+        "http://localhost:8080/en/",
+        "http://localhost:8080/en/meetup/",
+        "http://localhost:8080/en/accessibility-newsletter/",
+        "http://localhost:8080/en/contact/"
+    ]
+}

@@ -7,23 +7,23 @@ translationKey: meetup
 permalink: /meetup/
 ---
 
-# Meetup
+<h1 lang="en">Meetup</h1>
 
-T12t startade som en meetup-grupp 2013. Sedan dess har vi haft en mängd meetups och i nuläget försöker vi se till att ha fyra meetups per år. Vi har meetups på både svenska och engelska. Vilket språk det blir beror på vilka vi samarbetar med, vilka talare vi har etc.
+T12t startade som en <span lang="en">meetup</span>-grupp 2013. Sedan dess har vi haft en mängd <span lang="en">meetups</span> och i nuläget försöker vi se till att ha fyra <span lang="en">meetups</span> per år. Vi har <span lang="en">meetups</span> på både svenska och engelska. Vilket språk det blir beror på vilka vi samarbetar med, vilka talare vi har etc. Våra <span lang="en">meetups</span> är alltid gratis!
 
-Du hittar oss på [meetup.com som t12t - Stockholm](https://www.meetup.com/t12t-Stockholm).
+Du hittar oss på <a href="https://www.meetup.com/t12t-Stockholm" hreflang="en"><span lang="en">meetup.com</span> som t12t - Stockholm</a>.
 
-## Nästa meetup
+<h2 lang="en">Nästa meetup</h2>
 
-Vi har inte planerat vårt nästa meetup än men vi tittar på att arrangera något den 17:e november. Se till att [gå med i vår meetup grupp](https://www.meetup.com/t12t-Stockholm) så får du uppdateringar om exakt datum och tid!
+Vi har inte planerat vårt nästa <span lang="en">meetup</span> än men vi tittar på att arrangera något den 17:e november. Se till att <a href="https://www.meetup.com/t12t-Stockholm">gå med i vår <span lang="en">meetup</span>-grupp</a> så får du uppdateringar om exakt datum och tid!
 
-## Senaste meetupet
+<h2 lang="en">Vårt senaste meetup</h2>
 
-Vårt senaste meetup var 23:e september, samma dag som webbtillgänglighetsdirektivet trädde i kraft. [På vår Youtube finns live-video](https://www.youtube.com/watch?v=N1A0uPjdZxs). Mer [info om talare och ämnen finns på vår meetupsida](https://www.meetup.com/t12t-Stockholm/events/272807791/).
+Vårt senaste <span lang="en">meetup</span> var 23:e september, samma dag som webbtillgänglighetsdirektivet trädde i kraft. <a href="https://www.youtube.com/watch?v=N1A0uPjdZxs">På vår <span lang="en">Youtube</span> finns <span lang="en">live</span>-video</a>. Mer [info om talare och ämnen finns på vår meetupsida](https://www.meetup.com/t12t-Stockholm/events/272807791/).
 
 ## Säkerhet och inkludering
 
-Vi har en [uppförandekod](/uppforandekod/) som vi förväntar oss att alla följer på våra event men även i andra kanaler och sammanhang.
+Vi har en [uppförandekod](/uppforandekod/) som vi förväntar oss att alla följer på våra träffar men även i andra kanaler och sammanhang.
 
 ## Talare och värdar
 

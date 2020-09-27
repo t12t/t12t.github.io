@@ -5,6 +5,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('redirect', 'layouts/redirect.html');
 
   // Pass some assets right through
+  eleventyConfig.addPassthroughCopy("./CNAME");
   eleventyConfig.addPassthroughCopy("./src/assets/images/");
   eleventyConfig.addPassthroughCopy("./src/assets/fonts/");
   eleventyConfig.addPassthroughCopy("./src/robots.txt");

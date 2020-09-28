@@ -8,7 +8,9 @@ translationKey: meetup
 
 # Meetup
 
-T12t started out as a meetup group in 2013. Since then we have had a number of meetups and right now we are trying to organize four meetups a year. We have meetups is in both english and swedish. We choose language depending on who we work together with, who our speakers are etc. Our meetups are always free of charge!
+T12t started as a meetup group in 2013. Back then it was all about having meetups but now we have grown into something that could be called a network, although our meetups are still central. The ones taking care of t12t today are Ida Franceen, Hampus Sethfors, Pär Lannerö, and Erik Gustafsson.
+
+Nowadays we are trying to organize four meetups a year. We have meetups in both English and Swedish. We choose language depending on who we work together with, who our speakers are etc. Our meetups are always free of charge!
 
 Find us at [meetup.com as t12t - Stockholm.](https://www.meetup.com/t12t-Stockholm)
 

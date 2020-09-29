@@ -27,15 +27,15 @@
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
     "cssnano": "^4.1.10",
-    "postcss": "^7.0.34",
+    "postcss": "^8.1.1",
     "postcss-import": "^12.0.1",
-    "postcss-mixins": "^6.2.3",
-    "postcss-nested": "^4.2.3",
-    "postcss-simple-vars": "^5.0.2"
+    "postcss-mixins": "^7.0.1",
+    "postcss-nested": "^5.0.1",
+    "postcss-simple-vars": "^6.0.1"
   },
   "devDependencies": {
     "lighthouse": "^6.3.0",
-    "open": "^7.2.1",
+    "open": "^7.3.0",
     "pa11y-ci": "^2.4.0",
     "prettier": "^2.1.2",
     "serve": "^11.3.2",

@@ -27,3 +27,7 @@ We are [on Twitter as @t12t](https://twitter.com/t12t) and our DM's are open.
 ## Via Github
 
 We have a couple of [repositories on our Github](https://github.com/t12t). You can also find [the source of this website](https://github.com/t12t/t12t.github.io) there. Maybe you found something that needs to be fixed on this site? Issues and pull requests are welcome!
+
+## Via one of us
+
+You can get in touch directly with one of us via Twitter or in Erik's case LinkedIn. We are [Ida Franceen](https://twitter.com/kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken), [Pär Lannerö](https://twitter.com/plannero) and [Erik Gustafsson](https://www.linkedin.com/in/valross/).

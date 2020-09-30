@@ -14,7 +14,7 @@ för alla.
 
 ## Behöver du hjälp?
 
-Kontakta oss via [vår meetup-sida](https://www.meetup.com/t12t-Stockholm), [vår Twitter](https://twitter.com/t12t) eller [på vår Slack](https://t12t.slack.com). Du kan också kontakta arrangörerna direkt på ett event eller online. De är [Ida Franceen](https://twitter.com/kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken) and [Pär Lannerö](https://twitter.com/plannero).
+Kontakta oss via [vår meetup-sida](https://www.meetup.com/t12t-Stockholm), [vår Twitter](https://twitter.com/t12t) eller [på vår Slack](https://t12t.slack.com). Du kan också kontakta arrangörerna direkt på ett event eller online. De är [Ida Franceen](https://twitter.com/kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken), [Pär Lannerö](https://twitter.com/plannero) och [Erik Gustafsson](https://www.linkedin.com/in/valross/).
 
 ## Snabbversionen
 

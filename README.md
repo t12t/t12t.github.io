@@ -39,7 +39,7 @@ This command doesn't start a server but you can use any server of your choice to
 
 ## Deployment
 
-The site will be deployed whenever something is merged to the master branch. We are hosting our site on Github and we are using Github actions for our deploys.
+The site will be deployed whenever something is merged to the main branch. We are hosting our site on Github and we are using Github actions for our deploys.
 
 ## Test
 
@@ -50,4 +50,4 @@ To do this make sure [your development server is running](#development) first. T
 npm run test-pa11y
 ```
 
-Whenever something is pushed to master [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) runs and checks accessibility, performance, seo and best practices.
+Whenever something is pushed to the main branch [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) runs and checks accessibility, performance, seo and best practices.

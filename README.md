@@ -40,3 +40,14 @@ This command doesn't start a server but you can use any server of your choice to
 ## Deployment
 
 The site will be deployed whenever something is merged to the master branch. We are hosting our site on Github and we are using Github actions for our deploys.
+
+## Test
+
+You can run a manual test on your local machine [with Pa11y CI](https://github.com/pa11y/pa11y-ci).
+To do this make sure [your development server is running](#development) first. Then run the command for pa11y.
+
+```
+npm run test-pa11y
+```
+
+Whenever something is pushed to master [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) runs and checks accessibility, performance, seo and best practices.

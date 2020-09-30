@@ -19,7 +19,6 @@
   "scripts": {
     "lint": "stylelint ./src/**/*.css --fix",
     "test-pa11y": "./node_modules/.bin/pa11y-ci",
-    "test-lighthouse": "node lighthouse/index.js",
     "dev": "ELEVENTY_ENV=development eleventy --watch --serve",
     "local-prod": "ELEVENTY_ENV=prod eleventy && cd dist && serve .",
     "prod": "ELEVENTY_ENV=prod eleventy"
@@ -34,7 +33,6 @@
     "postcss-simple-vars": "^6.0.1"
   },
   "devDependencies": {
-    "lighthouse": "^6.3.0",
     "open": "^7.3.0",
     "pa11y-ci": "^2.4.0",
     "prettier": "^2.1.2",

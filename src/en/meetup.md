@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meetup
-description: We have four meetups a year in both english and swedish.
+description: We have four meetups a year on the theme digital accessibility. We do meetups in both english and swedish.
 lang: en
 translationKey: meetup
 ---

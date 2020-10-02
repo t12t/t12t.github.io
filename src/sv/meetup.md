@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meetup
-description: Vi anordnar fyra meetups per år på både svenska och engelska.
+description: Vi anordnar fyra meetups per år på temat digital tillgänglighet. Våra meetups är både på svenska och engelska.
 lang: sv
 translationKey: meetup
 permalink: /meetup/

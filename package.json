@@ -19,7 +19,7 @@
   "scripts": {
     "lint": "stylelint ./src/**/*.css --fix",
     "test-pa11y": "./node_modules/.bin/pa11y-ci",
-    "test-links": "blc $URL -ro",
+    "test-links": "blc $URL -ro --exclude linkedin.com",
     "dev": "ELEVENTY_ENV=development eleventy --watch --serve",
     "local-prod": "ELEVENTY_ENV=prod eleventy && cd dist && serve .",
     "prod": "ELEVENTY_ENV=prod eleventy"

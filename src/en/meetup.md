@@ -20,7 +20,13 @@ Our next meetup is not yet planned but we are looking into arranging something o
 
 ## Previous meetup
 
-Our last meetup was on September 23rd, the same day as the Web Accessibility Directive went into effect. [You can find the live video on our Youtube channel](https://www.youtube.com/watch?v=N1A0uPjdZxs). More [info on speakers and subjects can be found on our meetup page](https://www.meetup.com/t12t-Stockholm/events/272807791/).
+Our last meetup was on September 23rd, the same day as the Web Accessibility Directive went into effect.
+
+<div class="embed-video">
+  <iframe title="t12t meetup online - Blixttal with MTM - 23 September 2020" width="560" height="315" src="https://www.youtube-nocookie.com/embed/N1A0uPjdZxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+[You can find the live video on our Youtube channel](https://www.youtube.com/watch?v=N1A0uPjdZxs). More [info on speakers and subjects can be found on our meetup page](https://www.meetup.com/t12t-Stockholm/events/272807791/).
 
 ## Safety and inclusion
 

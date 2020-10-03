@@ -43,6 +43,8 @@ The site will be deployed whenever something is merged to the main branch. We ar
 
 ## Test
 
+### Pa11y
+
 You can run a manual test on your local machine [with Pa11y CI](https://github.com/pa11y/pa11y-ci).
 To do this make sure [your development server is running](#development) first. Then run the command for pa11y.
 
@@ -50,4 +52,16 @@ To do this make sure [your development server is running](#development) first. T
 npm run test-pa11y
 ```
 
+### Lighthouse
+
 Whenever something is pushed to the main branch [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) runs and checks accessibility, performance, seo and best practices.
+
+### Broken Links
+
+You can check the site for broken links by running the following command. To test locally change the `URL` to `http://localhost:8080`.
+
+```
+URL=http://t12t.se npm run test-links
+```
+
+Note! LinkedIn returns HTTP 999 and appears broken even though it's not. LinkedIn is excluded from the link test right now to avoid confusing errors. Test links to LinkedIn manually to make sure they work.

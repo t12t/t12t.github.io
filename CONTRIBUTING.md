@@ -12,7 +12,7 @@ If you notice something that needs to be fixed or if you have a suggestion for s
 
 If you would like to change code or documentation directly you are welcome to create a pull request.
 
-1. Fork the repo and create your branch from main.
+1. [Fork the repo and create your branch](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) from main.
 1. Make your changes.
 1. Check that the [manual tests passes](https://github.com/t12t/t12t.github.io#test).
 1. Make sure your code lints.

@@ -1,11 +1,3 @@
----
-layout: default
-title: Code of Conduct
-description: We want our events to be safe and for people to feel welcome. That's why we enforce a Code of Conduct.
-translationKey: codeofconduct
-lang: en
----
-
 # Code of Conduct
 
 All attendees, speakers, sponsors and volunteers at our events and in our other channels are required to agree with the following code of conduct. Organisers will enforce this code. We expect cooperation from all participants to help ensure a safe environment for everybody.

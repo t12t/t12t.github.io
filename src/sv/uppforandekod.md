@@ -21,10 +21,10 @@ Kontakta oss via [vår meetup-sida](https://www.meetup.com/t12t-Stockholm), [vå
 Det är viktigt för oss att erbjuda en trygg och inkluderande
 upplevelse för alla - och vi är måna om att deltagare som bidrar
 till en ökad mångfald känner sig välkomna. En viktig förutsättning är att
-våra event och våra kanaler är fria från trakasserier - dvs uppträdanden som kränker någons värdighet - och det är den som påverkas som avgör om ett beteende känns ok
+våra event och våra andra kanaler är fria från trakasserier - dvs uppträdanden som kränker någons värdighet - och det är den som påverkas som avgör om ett beteende känns ok
 eller inte. Sexuellt eller fördomsfullt språk och bildspråk ska undvikas i
 samtliga kanaler och sammanhang, inklusive föredrag, workshops, fester,
-Twitter, Slack och andra kanaler online etc. Deltagare som - enligt arrangörens ensidiga bedömning – bryter mot dessa regler kan avvisas från våra event och portas från våra andra kanaler.
+Twitter, Slack, Github och andra kanaler online etc. Deltagare som - enligt arrangörens ensidiga bedömning – bryter mot dessa regler kan avvisas från våra event och portas från våra andra kanaler.
 
 ## Den mindre snabba versionen
 
@@ -70,7 +70,12 @@ också av trakasseriförbudet. Sponsorer ska avstå från marknadsföring som
 kan bidra till att skapa en sexualiserad miljö.
 
 Om du känner dig trakasserad eller märker att någon annan är utsatt för
-trakasserier, vänligen kontakta organisatörerna. De kommer att presenteras sig själva i samband med event.
+trakasserier, vänligen kontakta organisatörerna. De kommer även att presentera sig själva i samband med event.
+
+Oranisatörerna hjälper gärna deltagare att kontakta säkerhetsvakt eller polis, erbjuda
+ledsagare, eller på annat sätt hjälpa dem som upplever trakasserier att känna sig säkra under ett evenemang. Vi värdesätter din närvaro.
+
+Vi förväntar oss att alla deltagare följer dessa regler på våra event, inklusive workshops, fester, Twitter, Slack, Github och andra kanaler online.
 
 Originalkälla: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 Bidra gärna med översättningar eller andra förbättringar: [http://github.com/confcodeofconduct](https://github.com/confcodeofconduct/confcodeofconduct.com)

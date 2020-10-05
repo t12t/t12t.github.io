@@ -37,10 +37,6 @@ npm run build
 
 This command doesn't start a server but you can use any server of your choice to view the built site. A suggestion is [to install serve](https://www.npmjs.com/package/serve).
 
-## Deployment
-
-The site will be deployed whenever something is merged to the main branch. We are hosting our site on Github and we are using Github actions for our deploys.
-
 ## Test
 
 ### Pa11y
@@ -65,3 +61,11 @@ URL=http://t12t.se npm run test-links
 ```
 
 Note! LinkedIn returns HTTP 999 and appears broken even though it's not. LinkedIn is excluded from the link test right now to avoid confusing errors. Test links to LinkedIn manually to make sure they work.
+
+## Deployment
+
+The site will be deployed whenever something is merged to the main branch. We are hosting our site on Github and we are using Github actions for our deploys.
+
+## Contribution
+
+Feel free to suggest improvements and report issues. [Read more about contributing to our site](CONTRIBUTING.md).

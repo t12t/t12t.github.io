@@ -49,24 +49,18 @@
   -moz-border-radius: 3px;
   border-radius: 3px;
   font-size: 1.6rem;
+
+  &:focus {
+    border: 2px solid $grenadie;
+    outline: 0;
+  }
 }
 
-#mc_embed_signup input[type="checkbox"] {
-  -webkit-appearance: checkbox;
-}
-
-#mc_embed_signup input[type="radio"] {
-  -webkit-appearance: radio;
-}
-
-#mc_embed_signup input:focus {
-  border-color: #333;
-}
-
-#mc_embed_signup .button {
+#mc_embed_signup .button,
+#mc_embed_signup input[type="submit"] {
   clear: both;
   background-color: $grenadie;
-  border: 0 none;
+  border: 2px solid white;
   border-radius: 4px;
   transition: all 0.23s ease-in-out 0s;
   color: #ffff;
@@ -74,7 +68,7 @@
   display: inline-block;
   font-size: 1.6rem;
   font-weight: normal;
-  height: 32px;
+  height: 36px;
   line-height: 32px;
   margin: 0 5px 10px 0;
   padding: 0 22px;
@@ -83,6 +77,20 @@
   vertical-align: top;
   white-space: nowrap;
   width: auto;
+
+  &:focus {
+    background: white;
+    color: $grenadie;
+    border: 2px solid $grenadie;
+  }
+}
+
+#mc_embed_signup input[type="checkbox"] {
+  -webkit-appearance: checkbox;
+}
+
+#mc_embed_signup input[type="radio"] {
+  -webkit-appearance: radio;
 }
 
 #mc_embed_signup .small-meta {

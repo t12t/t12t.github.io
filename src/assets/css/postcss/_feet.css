@@ -11,27 +11,31 @@
     color: white;
   }
 
-  ul {
-    margin: 0 0 1em;
-    padding: 0;
+  a {
+    display: inline-block;
   }
 
   li {
     list-style-position: inside;
     white-space: nowrap;
+
+    a {
+      padding: 0.3em;
+      margin-left: -0.3em;
+    }
   }
 
-  a {
-    display: inline-block;
-    padding: 0.3em 0;
+  a:focus {
+    outline: 2px solid white;
+  }
+
+  ul {
+    margin: 0 0 1em;
+    padding: 0;
   }
 
   p {
     max-width: 620px;
-  }
-
-  p a {
-    padding: 0;
   }
 }
 

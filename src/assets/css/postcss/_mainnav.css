@@ -3,7 +3,6 @@
 
   ul {
     list-style: none;
-    overflow: hidden;
     padding: 0;
     margin: 0;
   }
@@ -13,12 +12,28 @@
   }
 
   a {
+    box-sizing: content-box;
     color: white;
     display: block;
     font-size: 1.8rem;
-    padding: 1em 1em 1em 0;
-    margin: 1px; /* makes the outline more visible in fx */
+    padding: 1em 0.5em 1em 0.5em;
+    margin-left: -0.5em;
+    margin-right: 0.5em;
     white-space: nowrap;
+
+    &:focus {
+      outline: 2px solid white;
+    }
+
+    @supports selector(:focus-visible) {
+      &:focus {
+        outline: none;
+      }
+
+      &:focus-visible {
+        outline: 2px solid white;
+      }
+    }
   }
 }
 
@@ -32,17 +47,18 @@
     position: relative;
     top: 3px;
   }
+}
 
-  a {
-    display: inline-block;
-    font-size: 1.6rem;
-    padding: 0 0 1em 1em;
-    white-space: nowrap;
+.lang-link {
+  display: inline-block;
+  font-size: 1.6rem;
+  padding: 1em;
+  margin: -1em -1em 0 0;
+  white-space: nowrap;
 
-    &:hover,
-    &:focus {
-      background: none;
-    }
+  &:hover,
+  &:focus {
+    background: none;
   }
 }
 
@@ -57,17 +73,18 @@
     }
 
     a {
-      padding-left: 1em;
+      padding: 1em;
     }
   }
 
   .lang-nav {
     position: static;
     order: 1;
+  }
 
-    a {
-      font-size: 1.8rem;
-      padding: 1em;
-    }
+  .lang-link {
+    font-size: 1.8rem;
+    margin: 0;
+    padding: 1em;
   }
 }

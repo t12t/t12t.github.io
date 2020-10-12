@@ -11,30 +11,31 @@ header a {
 }
 
 .skip-to-main {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
   border: 0;
   box-sizing: border-box;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
 
   &:focus,
   &:active {
+    background-color: white;
+    border-bottom: 2px solid white;
+    color: $zeus;
+    clip: auto;
     display: block;
     font-size: 1.6rem;
     padding: 15px;
     padding: 1.5rem;
     position: static;
-    background: $zeus;
+    outline: 0;
     text-align: center;
-    color: #fff;
-    border-bottom: 2px solid white;
     width: 100%;
     height: auto;
-    clip: auto;
   }
 }
 
@@ -42,12 +43,22 @@ header a {
   font-size: 1.8rem;
   font-family: $header-font;
   line-height: 0;
-  padding: 1.4em 7.8% 1.4em 0;
-  margin: 0;
+  padding: 1.4em 7.8% 1.4em 7.8%;
+  margin: 0 0 0 -7.8%;
   display: inline-block;
 
-  a {
-    display: block;
+  &:focus {
+    outline: 2px solid white;
+  }
+
+  @supports selector(:focus-visible) {
+    &:focus {
+      outline: none;
+    }
+
+    &:focus-visible {
+      outline: 2px solid white;
+    }
   }
 }
 
@@ -63,6 +74,11 @@ header a {
 
   a {
     color: $grenadie;
+
+    &:focus {
+      outline: 2px solid $grenadie;
+      text-decoration: none;
+    }
   }
 
   button {
@@ -73,4 +89,15 @@ header a {
 .package {
   background: #fff;
   padding: 0 7.8%;
+}
+
+@media screen and (min-width: $break-medium) {
+  header {
+    padding: 4px 0;
+  }
+
+  .our-wellknown-logo {
+    padding: 1.4em;
+    margin: 0 0 0 -1.4em;
+  }
 }

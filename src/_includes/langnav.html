@@ -1,5 +1,6 @@
+<!-- prettier-ignore -->
 {%- for lgg in langnav.languages -%}
-  {%- comment -%} Assign translatedUrl to the homepage of that language by default {%- endcomment -%}
+  {%- comment -%} Assign translatedUrl to the page of that language by default {%- endcomment -%}
   {%- capture translatedUrl -%}/{{ lgg.code }}/{% endcapture %}
   {%- if lgg.code == "sv" -%}
     {%- assign translatedUrl = "/" -%}
@@ -12,11 +13,14 @@
   {%- endfor -%}
   {%- comment -%} Assign current language {%- endcomment -%}
   {%- if lgg.code != locale -%}
-    <li class="lang-nav">
-      <a class="lang-link" hreflang="{{lgg.code}}" lang="{{lgg.code}}" href="{{ translatedUrl }}">
-      {% include globe.html %}
-      {{- lgg.label -}}
-      </a>
-    </li>
-  {%- endif -%}
-{%- endfor -%}
+<li class="lang-nav">
+  <a
+    class="lang-link"
+    hreflang="{{lgg.code}}"
+    lang="{{lgg.code}}"
+    href="{{ translatedUrl }}"
+  >
+    {% include globe.html %} {{- lgg.label -}}
+  </a>
+</li>
+{%- endif -%} {%- endfor -%}

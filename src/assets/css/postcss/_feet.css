@@ -13,6 +13,17 @@
 
   a {
     display: inline-block;
+    position: relative;
+
+    svg {
+      padding-left: 8px;
+      position: absolute;
+      top: 10px;
+
+      path {
+        fill: $blaze-orange;
+      }
+    }
   }
 
   li {

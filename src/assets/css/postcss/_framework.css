@@ -93,7 +93,7 @@ header a {
 
 @media screen and (min-width: $break-medium) {
   header {
-    padding: 4px 0;
+    padding: 4px 7.8%;
   }
 
   .our-wellknown-logo {

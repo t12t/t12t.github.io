@@ -52,7 +52,7 @@ legend {
 }
 
 h1 {
-  font-size: 4.6rem;
+  font-size: 4.2rem;
   line-height: 1.2;
   padding: 1.2em 0 0.8em;
 }
@@ -256,4 +256,10 @@ table {
 td,
 th {
   padding: 0;
+}
+
+@media screen and (min-width: $break-medium) {
+  h1 {
+    font-size: 4.6rem;
+  }
 }

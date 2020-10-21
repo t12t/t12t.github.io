@@ -63,7 +63,8 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  #paw,
+  #right-paw,
+  #left-paw,
   #nose {
     animation: none;
   }

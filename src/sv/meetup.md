@@ -17,7 +17,7 @@ Du hittar oss på <a href="https://www.meetup.com/t12t-Stockholm" hreflang="en">
 
 <h2 lang="en">Nästa meetup</h2>
 
-Vi har inte planerat vårt nästa <span lang="en">meetup</span> än men vi tittar på att arrangera något den 17:e november. Se till att <a href="https://www.meetup.com/t12t-Stockholm">gå med i vår <span lang="en">meetup</span>-grupp</a> så får du uppdateringar om exakt datum och tid!
+Vi har inte planerat vårt nästa <span lang="en">meetup</span> än men vi tittar på att arrangera något i början av december. Se till att <a href="https://www.meetup.com/t12t-Stockholm">gå med i vår <span lang="en">meetup</span>-grupp</a> så får du uppdateringar om exakt datum och tid!
 
 <h2 lang="en">Vårt senaste meetup</h2>
 

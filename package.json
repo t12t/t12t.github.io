@@ -17,6 +17,9 @@
     "url": "https://github.com/t12t/t12t.github.io/issues"
   },
   "homepage": "http://t12t.se",
+  "engines": {
+    "node": "15.14.0"
+  },
   "scripts": {
     "lint": "stylelint ./src/**/*.css --fix",
     "test-pa11y": "./node_modules/.bin/pa11y-ci",

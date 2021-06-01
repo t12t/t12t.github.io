@@ -33,7 +33,7 @@
     "cssnano": "^5.0.5",
     "postcss": "^8.3.0",
     "postcss-import": "^14.0.2",
-    "postcss-mixins": "^7.0.3",
+    "postcss-mixins": "^8.0.0",
     "postcss-nested": "^5.0.5",
     "postcss-simple-vars": "^6.0.3"
   },

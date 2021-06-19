@@ -17,17 +17,17 @@ Du hittar oss på <a href="https://www.meetup.com/t12t-Stockholm" hreflang="en">
 
 <h2 lang="en">Nästa meetup</h2>
 
-Vi planerar just nu vårt nästa <span lang="en">meetup</span> som kommer äga rum i maj 2021. Se till att <a href="https://www.meetup.com/t12t-Stockholm">gå med i vår <span lang="en">meetup</span>-grupp</a> så får du uppdateringar om exakt datum och tid!
+Vi planerar just nu vårt nästa <span lang="en">meetup</span> som kommer äga under hösten 2021. Se till att <a href="https://www.meetup.com/t12t-Stockholm">gå med i vår <span lang="en">meetup</span>-grupp</a> så får du uppdateringar om exakt datum och tid!
 
 <h2 lang="en">Vårt senaste meetup</h2>
 
-Vårt senaste <span lang="en">meetup</span> var 23:e september, samma dag som webbtillgänglighetsdirektivet trädde i kraft.
+Vårt senaste <span lang="en">meetup</span> var 20:e maj, på <span lang="en">Global Accessibility Awareness Day<span>.
 
-<div class="embed-video">
-  <iframe title="t12t meetup online - Blixttal med MTM - 23 september 2020" width="560" height="315" src="https://www.youtube-nocookie.com/embed/N1A0uPjdZxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-video" lang="en">
+  <iframe title="t12t - GAAD 2021: A11y culture at work" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL2xRuDW-GAR1IBucg5XVkYn5vZSAzZfXX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<a href="https://www.youtube.com/watch?v=N1A0uPjdZxs">På vår <span lang="en">Youtube</span> finns <span lang="en">live</span>-video</a>. Mer [info om talare och ämnen finns på vår meetupsida](https://www.meetup.com/t12t-Stockholm/events/272807791/).
+<a href="https://youtube.com/playlist?list=PL2xRuDW-GAR1IBucg5XVkYn5vZSAzZfXX">På vår <span lang="en">Youtube</span> finns en spellista</a>. Mer [info om talare och ämnen finns på vår meetupsida](https://www.meetup.com/t12t-Stockholm/events/277443702/).
 
 ## Säkerhet och inkludering
 

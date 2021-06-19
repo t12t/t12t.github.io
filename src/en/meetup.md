@@ -16,17 +16,17 @@ Find us at [meetup.com as t12t - Stockholm.](https://www.meetup.com/t12t-Stockho
 
 ## Next meetup
 
-We are in the process of planning our next meetup which will take place i May 2021. To get notified of exact date and time make sure you [join our meetup group!](https://www.meetup.com/t12t-Stockholm)
+We are in the process of planning our next meetup which will take place in the fall of 2021. To get notified of exact date and time make sure you [join our meetup group!](https://www.meetup.com/t12t-Stockholm)
 
 ## Previous meetup
 
-Our last meetup was on September 23rd, the same day as the Web Accessibility Directive went into effect.
+Our last meetup was on May 20th, on Global Accessibility Awareness Day.
 
 <div class="embed-video">
-  <iframe title="t12t meetup online - Blixttal with MTM - 23 September 2020" width="560" height="315" src="https://www.youtube-nocookie.com/embed/N1A0uPjdZxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="t12t - GAAD 2021: A11y culture at work" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL2xRuDW-GAR1IBucg5XVkYn5vZSAzZfXX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[You can find the live video on our Youtube channel](https://www.youtube.com/watch?v=N1A0uPjdZxs). More [info on speakers and subjects can be found on our meetup page](https://www.meetup.com/t12t-Stockholm/events/272807791/).
+[You can find a playlist on our Youtube channel](https://youtube.com/playlist?list=PL2xRuDW-GAR1IBucg5XVkYn5vZSAzZfXX). More [info on speakers and subjects can be found on our meetup page](https://www.meetup.com/t12t-Stockholm/events/277443702/).
 
 ## Safety and inclusion
 

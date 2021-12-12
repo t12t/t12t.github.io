@@ -17,17 +17,15 @@ Du hittar oss på <a href="https://www.meetup.com/t12t-Stockholm" hreflang="en">
 
 <h2 lang="en">Nästa meetup</h2>
 
-Vi planerar just nu vårt nästa <span lang="en">meetup</span> som kommer äga rum den 18:e november 2021. Se till att <a href="https://www.meetup.com/t12t-Stockholm">gå med i vår <span lang="en">meetup</span>-grupp</a> så hittar du mer information där!
+Vi planerar att ha nästa <span lang="en">meetup</span> någon gång i början av 2022. Se till att <a href="https://www.meetup.com/t12t-Stockholm">gå med i vår <span lang="en">meetup</span>-grupp</a> så hittar du mer information där!
 
 <h2 lang="en">Vårt senaste meetup</h2>
 
-Vårt senaste <span lang="en">meetup</span> var 20:e maj, på <span lang="en">Global Accessibility Awareness Day<span>.
+Vårt senaste <span lang="en">meetup</span> var den 18:e november, 2021.
 
 <div class="embed-video" lang="en">
-  <iframe title="t12t - GAAD 2021: A11y culture at work" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL2xRuDW-GAR1IBucg5XVkYn5vZSAzZfXX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Youtube T12t Meetup: Goda exempel" width="560" height="315" src="https://www.youtube.com/embed/blstPEAF0PU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-<a href="https://youtube.com/playlist?list=PL2xRuDW-GAR1IBucg5XVkYn5vZSAzZfXX">På vår <span lang="en">Youtube</span> finns en spellista</a>. Mer [info om talare och ämnen finns på vår meetupsida](https://www.meetup.com/t12t-Stockholm/events/277443702/).
 
 ## Säkerhet och inkludering
 

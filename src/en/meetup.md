@@ -14,6 +14,14 @@ Nowadays we are trying to organize two to four meetups a year. We have meetups i
 
 Find us at [meetup.com as t12t - Stockholm.](https://www.meetup.com/t12t-Stockholm)
 
+## Previous meetup
+
+Our last meetup was May 19, 2022.
+
+<div class="embed-video" lang="en">
+  <iframe title="t12t meetup - Global Accessibility Awareness Day hos Swedbank" width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL2xRuDW-GAR2pO8K13wiKstOJKAUo_98o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Next meetup
 
 Our next meetup will be in the autumn of 2022. Make sure you [join our meetup group](https://www.meetup.com/t12t-Stockholm) to get all the info you need!

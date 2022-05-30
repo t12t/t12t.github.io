@@ -15,7 +15,15 @@ I nuläget försöker vi se till att ha två till fyra <span lang="en">meetups</
 
 Du hittar oss på <a href="https://www.meetup.com/t12t-Stockholm" hreflang="en"><span lang="en">meetup.com</span> som t12t - Stockholm</a>.
 
-<h2 lang="en">Nästa meetup</h2>
+<h2>Vårt senaste <span lang="en">meetup</span></h2>
+
+Vårt senaste <span lang="en">meetup</span> var den 19:e maj, 2022.
+
+<div class="embed-video" lang="en">
+  <iframe title="t12t meetup - Global Accessibility Awareness Day hos Swedbank" width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL2xRuDW-GAR2pO8K13wiKstOJKAUo_98o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h2>Nästa <span lang="en">meetup</span></h2>
 
 Vi planerar att ha nästa <span lang="en">meetup</span> hösten 2022. Se till att <a href="https://www.meetup.com/t12t-Stockholm">gå med i vår <span lang="en">meetup</span>-grupp</a> så hittar du mer information där!
 

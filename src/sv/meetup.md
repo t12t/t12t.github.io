@@ -17,15 +17,15 @@ Du hittar oss på <a href="https://www.meetup.com/t12t-Stockholm" hreflang="en">
 
 <h2>Vårt senaste <span lang="en">meetup</span></h2>
 
-Vårt senaste <span lang="en">meetup</span> var den 19:e maj, 2022.
+Vårt senaste <span lang="en">meetup</span> var den 22:a september, 2022.
 
 <div class="embed-video" lang="en">
-  <iframe title="t12t meetup - Global Accessibility Awareness Day hos Swedbank" width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL2xRuDW-GAR2pO8K13wiKstOJKAUo_98o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="t12t meetup - Knowit Experience" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL2xRuDW-GAR0FBeg6nkKeKnnv908RXIx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h2>Nästa <span lang="en">meetup</span></h2>
 
-Vi planerar att ha nästa <span lang="en">meetup</span> hösten 2022. Se till att <a href="https://www.meetup.com/t12t-Stockholm">gå med i vår <span lang="en">meetup</span>-grupp</a> så hittar du mer information där!
+Vi planerar att ha nästa <span lang="en">meetup</span> i början av 2023. Se till att <a href="https://www.meetup.com/t12t-Stockholm">gå med i vår <span lang="en">meetup</span>-grupp</a> så hittar du mer information där!
 
 ## Säkerhet och inkludering
 

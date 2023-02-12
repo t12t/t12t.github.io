@@ -30,7 +30,7 @@
     "prod": "ELEVENTY_ENV=prod eleventy"
   },
   "dependencies": {
-    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy": "^2.0.0",
     "cssnano": "^5.1.14",
     "postcss": "^8.4.17",
     "postcss-import": "^14.1.0",

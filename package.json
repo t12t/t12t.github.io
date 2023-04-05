@@ -30,21 +30,21 @@
     "prod": "ELEVENTY_ENV=prod eleventy"
   },
   "dependencies": {
-    "@11ty/eleventy": "^2.0.0",
-    "cssnano": "^5.1.14",
+    "@11ty/eleventy": "^2.0.1",
+    "cssnano": "^5.1.15",
     "postcss": "^8.4.21",
     "postcss-import": "^15.1.0",
     "postcss-mixins": "^9.0.4",
-    "postcss-nested": "^6.0.0",
+    "postcss-nested": "^6.0.1",
     "postcss-simple-vars": "^7.0.1"
   },
   "devDependencies": {
     "broken-link-checker": "^0.7.8",
-    "open": "^9.0.0",
+    "open": "^9.1.0",
     "pa11y-ci": "^3.0.1",
-    "prettier": "^2.7.1",
+    "prettier": "^2.8.7",
     "serve": "^14.2.0",
-    "stylelint": "^14.15.0",
+    "stylelint": "^14.16.1",
     "stylelint-config-prettier": "^9.0.5",
     "stylelint-config-standard": "^29.0.0",
     "stylelint-prettier": "^2.0.0"

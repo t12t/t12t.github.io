@@ -48,10 +48,6 @@ To do this make sure [your development server is running](#development) first. T
 npm run test-pa11y
 ```
 
-### Lighthouse
-
-Whenever something is pushed to the main branch [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) runs and checks accessibility, performance, seo and best practices.
-
 ### Broken Links
 
 You can check the site for broken links by running the following command. To test locally change the `URL` to `http://localhost:8080`.

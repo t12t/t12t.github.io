@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "cssnano": "^5.1.15",
+    "cssnano": "^6.0.0",
     "postcss": "^8.4.21",
     "postcss-import": "^15.1.0",
     "postcss-mixins": "^9.0.4",
@@ -44,9 +44,9 @@
     "pa11y-ci": "^3.0.1",
     "prettier": "^2.8.7",
     "serve": "^14.2.0",
-    "stylelint": "^14.16.1",
+    "stylelint": "^15.6.0",
     "stylelint-config-prettier": "^9.0.5",
-    "stylelint-config-standard": "^29.0.0",
+    "stylelint-config-standard": "^33.0.0",
     "stylelint-prettier": "^3.0.0"
   }
 }

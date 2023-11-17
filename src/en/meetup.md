@@ -14,17 +14,10 @@ Nowadays we are trying to organize two to four meetups a year. We have meetups i
 
 Find us at [meetup.com as t12t - Stockholm.](https://www.meetup.com/t12t-Stockholm)
 
-## Previous meetup
-
-Our last meetup was September 22, 2022.
-
-<div class="embed-video">
-  <iframe title="t12t meetup - Knowit Experience" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL2xRuDW-GAR0FBeg6nkKeKnnv908RXIx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## Next meetup
 
-Our next meetup will be in the beginning of 2023. Make sure you [join our meetup group](https://www.meetup.com/t12t-Stockholm) to get all the info you need!
+Our next meetup will be in Malmö on the 30th of November. It will be both online and in person. If you want to attend in person [rsvp via our meetup group](https://www.meetup.com/t12t-Stockholm). You will also find more information about the event there!
 
 ## Safety and inclusion
 

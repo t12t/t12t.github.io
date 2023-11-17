@@ -15,17 +15,9 @@ I nuläget försöker vi se till att ha två till fyra <span lang="en">meetups</
 
 Du hittar oss på <a href="https://www.meetup.com/t12t-Stockholm" hreflang="en"><span lang="en">meetup.com</span> som t12t - Stockholm</a>.
 
-<h2>Vårt senaste <span lang="en">meetup</span></h2>
-
-Vårt senaste <span lang="en">meetup</span> var den 22:a september, 2022.
-
-<div class="embed-video" lang="en">
-  <iframe title="t12t meetup - Knowit Experience" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL2xRuDW-GAR0FBeg6nkKeKnnv908RXIx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 <h2>Nästa <span lang="en">meetup</span></h2>
 
-Vi planerar att ha nästa <span lang="en">meetup</span> i början av 2023. Se till att <a href="https://www.meetup.com/t12t-Stockholm">gå med i vår <span lang="en">meetup</span>-grupp</a> så hittar du mer information där!
+Vi planerar att ha nästa <span lang="en">meetup</span> i Malmö, 30 november. Det kommer att vara både <span lang="en">online</span> och på plats. Vill du delta på plats så <a href="https://www.meetup.com/t12t-Stockholm">anmäl dig via vår <span lang="en">meetup</span>-grupp</a>. Där hittar du också mer information om eventet!
 
 ## Säkerhet och inkludering
 

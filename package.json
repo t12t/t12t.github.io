@@ -22,7 +22,6 @@
     "npm": "10.1.0"
   },
   "scripts": {
-    "lint": "stylelint ./src/**/*.css --fix",
     "test-pa11y": "./node_modules/.bin/pa11y-ci",
     "test-links": "blc $URL -ro --exclude linkedin.com",
     "dev": "ELEVENTY_ENV=development eleventy --watch --serve",
@@ -43,10 +42,6 @@
     "open": "^9.1.0",
     "pa11y-ci": "^3.1.0",
     "prettier": "^3.1.0",
-    "serve": "^14.2.1",
-    "stylelint": "^15.11.0",
-    "stylelint-config-prettier": "^9.0.5",
-    "stylelint-config-standard": "^34.0.0",
-    "stylelint-prettier": "^4.0.2"
+    "serve": "^14.2.1"
   }
 }

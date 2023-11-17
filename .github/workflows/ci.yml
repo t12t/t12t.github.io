@@ -24,7 +24,7 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Install dependencies ⚙️
-        run: npm install
+        run: npm install --legacy-peer-deps
 
       - name: Build site 🛠
         run: npm run prod

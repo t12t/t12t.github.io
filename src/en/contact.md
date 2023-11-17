@@ -20,9 +20,13 @@ Our Slack started as a tool for us to organise our meetups. Nowadays it's open t
 
 [Join our Slack!](https://join.slack.com/t/t12t/shared_invite/enQtNjA5NDYyOTExNjY4LTFjYmQ3MmI4N2I0YTIyZjgzMmMxMWYxNjNhYTJlNDM3Zjk3NmNhNjA1NTFiZWI5ZmZmYmE4NjRmMDIzNDUwNTE)
 
-## Via Twitter
+## Via Twitter (or X)
 
 We are [on Twitter as @t12t](https://twitter.com/t12t) and our DM's are open.
+
+## Via Mastodon
+
+We are [on Mastodon as @t12t](https://a11y.social/@t12t).
 
 ## Via Github
 
@@ -30,4 +34,4 @@ We have a couple of [repositories on our Github](https://github.com/t12t). You c
 
 ## Via one of us
 
-You can get in touch directly with one of us via Twitter or in Erik's case LinkedIn. We are [Ida Franceen](https://twitter.com/kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken), [Pär Lannerö](https://twitter.com/plannero) and [Erik Gustafsson](https://www.linkedin.com/in/valross/).
+You can get in touch directly with via social media. We are [Ida Franceen](https://strangeobject.space/@kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken), [Pär Lannerö](https://twitter.com/plannero), [Erik Gustafsson](https://www.linkedin.com/in/valross/) and [Marcus Tisäter](https://www.linkedin.com/in/marcus-tis%C3%A4ter-7a740480/).

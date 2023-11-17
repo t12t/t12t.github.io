@@ -8,7 +8,7 @@ translationKey: meetup
 
 # Meetup
 
-T12t started as a meetup group in 2013. Back then it was all about having meetups but now we have grown into something that could be called a network, although our meetups are still central. The ones taking care of t12t today are Ida Franceen, Hampus Sethfors, Pär Lannerö, and Erik Gustafsson.
+T12t started as a meetup group in 2013. Back then it was all about having meetups but now we have grown into something that could be called a network, although our meetups are still central. The ones taking care of t12t today are Ida Franceen, Hampus Sethfors, Pär Lannerö, Erik Gustafsson and, Marcus Tisäter.
 
 Nowadays we are trying to organize two to four meetups a year. We have meetups in both English and Swedish. We choose language depending on who we work together with, who our speakers are etc. Our meetups are always free of charge!
 

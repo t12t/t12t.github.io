@@ -11,7 +11,7 @@ permalink: /nyhetsbrev/
 
 Målet är att dela nyheter, artiklar och tips på ämnet digital tillgänglighet. Det är inte bara ett gäng länkar i ett mail, det kommer också vara åsikter. Fokus kommer att vara på digital tillgänglighet men skopet är brett och söta djur utlovas.
 
-Det finns i nuläget inget strikt tidsschema för när nyhetsbrevet skickas ut. Ibland kommer det en gång i månaden. Ibland mer sällan.
+Det finns i nuläget inget strikt tidsschema för när nyhetsbrevet skickas ut. Ibland kommer det ett par gånger per år. Ibland mer sällan.
 
 Observera att nyhetsbrevet är på engelska.
 

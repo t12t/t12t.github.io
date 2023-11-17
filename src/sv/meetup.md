@@ -9,7 +9,7 @@ permalink: /meetup/
 
 <h1 lang="en">Meetup</h1>
 
-T12t startade som en <span lang="en">meetup</span>-grupp 2013. Då handlade det enbart om <span lang="en">meetups</span> men nu har det växt till något som liknar ett nätverk, även om våra <span lang="en">meetups</span> fortfarande är en central del. Vi som tar hand om t12t idag heter Ida Franceen, Hampus Sethfors, Pär Lannerö och Erik Gustafsson.
+T12t startade som en <span lang="en">meetup</span>-grupp 2013. Då handlade det enbart om <span lang="en">meetups</span> men nu har det växt till något som liknar ett nätverk, även om våra <span lang="en">meetups</span> fortfarande är en central del. Vi som tar hand om t12t idag heter Ida Franceen, Hampus Sethfors, Pär Lannerö, Erik Gustafsson och Marcus Tisäter.
 
 I nuläget försöker vi se till att ha två till fyra <span lang="en">meetups</span> per år. Vi har <span lang="en">meetups</span> på både svenska och engelska. Vilket språk det blir beror på vilka vi samarbetar med, vilka talare vi har etc. Våra <span lang="en">meetups</span> är alltid gratis!
 

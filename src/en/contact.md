@@ -26,7 +26,7 @@ We are [on Twitter as @t12t](https://twitter.com/t12t) and our DM's are open.
 
 ## Via Mastodon
 
-We are [on Mastodon as @t12t](https://a11y.social/@t12t).
+We are [on Mastodon as @t12t](https://a11y.social/@t12t). Feel free to say hello to us there!
 
 ## Via Github
 

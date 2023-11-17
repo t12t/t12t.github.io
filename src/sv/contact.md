@@ -28,7 +28,7 @@ Vi finns [på Twitter som @t12t](https://twitter.com/t12t) och våra DMs är öp
 
 ## Via Mastodon
 
-Vi finns [på Mastodon as @t12t](https://a11y.social/@t12t).
+Vi finns [på Mastodon som @t12t](https://a11y.social/@t12t). Säg gärna hej där!
 
 ## Via Github
 

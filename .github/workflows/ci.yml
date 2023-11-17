@@ -13,7 +13,7 @@ jobs:
       - name: Setup Node 🦾
         uses: actions/setup-node@v2-beta
         with:
-          node-version: "18.15.0"
+          node-version: "20.9.0"
 
       - name: Cache dependencies 🐹
         uses: actions/cache@v2

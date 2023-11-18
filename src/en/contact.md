@@ -34,4 +34,4 @@ We have a couple of [repositories on our Github](https://github.com/t12t). You c
 
 ## Via one of us
 
-You can get in touch directly with via social media. We are [Ida Franceen](https://strangeobject.space/@kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken), [Pär Lannerö](https://twitter.com/plannero), [Erik Gustafsson](https://www.linkedin.com/in/valross/) and [Marcus Tisäter](https://www.linkedin.com/in/marcus-tis%C3%A4ter-7a740480/).
+You can get in touch directly with via social media. We are [Ida Franceen](https://strangeobject.space/@kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken), [Pär Lannerö](https://www.linkedin.com/in/lannero/), [Erik Gustafsson](https://www.linkedin.com/in/valross/) and [Marcus Tisäter](https://www.linkedin.com/in/marcus-tis%C3%A4ter-7a740480/).

@@ -36,4 +36,4 @@ Vi har ett par [repositories på vår Github](https://github.com/t12t). Det går
 
 ## Via en av oss
 
-Du kan kontakta oss direkt via våra sociala medier. Vi heter [Ida Franceen](https://strangeobject.space/@kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken), [Pär Lannerö](https://twitter.com/plannero), [Erik Gustafsson](https://www.linkedin.com/in/valross/) och [Marcus Tisäter](https://www.linkedin.com/in/marcus-tis%C3%A4ter-7a740480/).
+Du kan kontakta oss direkt via våra sociala medier. Vi heter [Ida Franceen](https://strangeobject.space/@kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken), [Pär Lannerö](https://www.linkedin.com/in/lannero/), [Erik Gustafsson](https://www.linkedin.com/in/valross/) och [Marcus Tisäter](https://www.linkedin.com/in/marcus-tis%C3%A4ter-7a740480/).

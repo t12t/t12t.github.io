@@ -17,7 +17,7 @@ Find us at [meetup.com as t12t - Stockholm.](https://www.meetup.com/t12t-Stockho
 
 ## Next meetup
 
-Our next meetup will be in Malmö on the 30th of November. It will be both online and in person. If you want to attend in person [rsvp via our meetup group](https://www.meetup.com/t12t-Stockholm). You will also find more information about the event there!
+In the beginning of 2024, the 16th of January, there will be a meetup in Gothenburg. If you want to attend [rsvp via our meetup group](https://www.meetup.com/t12t-Stockholm). You will also find more information about the event there!
 
 ## Safety and inclusion
 

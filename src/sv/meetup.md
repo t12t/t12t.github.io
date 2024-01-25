@@ -17,7 +17,7 @@ Du hittar oss på <a href="https://www.meetup.com/t12t-Stockholm" hreflang="en">
 
 <h2>Nästa <span lang="en">meetup</span></h2>
 
-I början av 2024, den 16:e januari, så blir det <span lang="en">meetup</span> i Göteborg. Vill du delta så <a href="https://www.meetup.com/t12t-Stockholm">anmäl dig via vår <span lang="en">meetup</span>-grupp</a>. Där hittar du också mer information om eventet!
+22 och 23 februari så är det <span lang="en">Axe-con watch party</span>! Vill du delta så <a href="https://www.meetup.com/t12t-Stockholm">anmäl dig via vår <span lang="en">meetup</span>-grupp</a>. Där hittar du också mer information om det hela.
 
 ## Säkerhet och inkludering
 

@@ -14,10 +14,9 @@ Nowadays we are trying to organize two to four meetups a year. We have meetups i
 
 Find us at [meetup.com as t12t - Stockholm.](https://www.meetup.com/t12t-Stockholm)
 
-
 ## Next meetup
 
-In the beginning of 2024, the 16th of January, there will be a meetup in Gothenburg. If you want to attend [rsvp via our meetup group](https://www.meetup.com/t12t-Stockholm). You will also find more information about the event there!
+February 22nd and 23rd is the Axe-con watch party! Make sure you [sign up via our meetup group](https://www.meetup.com/t12t-Stockholm). You will also find more information about the whole thing there.
 
 ## Safety and inclusion
 

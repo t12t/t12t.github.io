@@ -31,7 +31,7 @@
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "cssnano": "^6.0.1",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.35",
     "postcss-import": "^15.1.0",
     "postcss-mixins": "^9.0.4",
     "postcss-nested": "^6.0.1",

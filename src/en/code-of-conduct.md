@@ -12,7 +12,7 @@ All attendees, speakers, sponsors and volunteers at our events and in our other 
 
 ## Need Help?
 
-Get in touch with us via [our meetup-page](https://www.meetup.com/t12t-Stockholm), [our Twitter](https://twitter.com/t12t) or [our Slack-team](https://t12t.slack.com). You can also reach out to any of the organisers directly at an event or online. They are [Ida Franceen](https://twitter.com/kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken), [Pär Lannerö](https://twitter.com/plannero) and [Erik Gustafsson](https://www.linkedin.com/in/valross/).
+Get in touch with us via [our meetup-page](https://www.meetup.com/t12t-Stockholm), [our Twitter](https://twitter.com/t12t) or [our Slack-team](https://t12t.slack.com). You can also reach out to any of the organisers directly at an event or online. They are [Ida Franceen](https://twitter.com/kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken), [Pär Lannerö](https://twitter.com/plannero) and [Erik Gustafsson Spagnoli](https://www.linkedin.com/in/valross/).
 
 ## The Quick Version
 

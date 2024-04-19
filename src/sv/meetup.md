@@ -17,7 +17,8 @@ Du hittar oss på <a href="https://www.meetup.com/t12t-Stockholm" hreflang="en">
 
 <h2>Nästa <span lang="en">meetup</span></h2>
 
-22 och 23 februari så är det <span lang="en">Axe-con watch party</span>! Vill du delta så <a href="https://www.meetup.com/t12t-Stockholm">anmäl dig via vår <span lang="en">meetup</span>-grupp</a>. Där hittar du också mer information om det hela.
+Vårt nästa meetup är på <span lang="en">Global Accessibility Awareness Day</span>, den 16:e maj.
+Vill du delta så <a href="https://www.meetup.com/t12t-Stockholm">anmäl dig via vår <span lang="en">meetup</span>-grupp</a>. Där hittar du också mer information.
 
 ## Säkerhet och inkludering
 

@@ -16,7 +16,8 @@ Find us at [meetup.com as t12t - Stockholm.](https://www.meetup.com/t12t-Stockho
 
 ## Next meetup
 
-February 22nd and 23rd is the Axe-con watch party! Make sure you [sign up via our meetup group](https://www.meetup.com/t12t-Stockholm). You will also find more information about the whole thing there.
+Our next meetup will be on Global Accessibility Awareness Day, May 16th.
+Make sure you [sign up via our meetup group](https://www.meetup.com/t12t-Stockholm). You will also find more information there.
 
 ## Safety and inclusion
 

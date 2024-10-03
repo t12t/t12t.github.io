@@ -17,7 +17,7 @@ Du hittar oss på <a href="https://www.meetup.com/t12t-Stockholm" hreflang="en">
 
 <h2>Nästa <span lang="en">meetup</span></h2>
 
-Vårt nästa meetup är på <span lang="en">Global Accessibility Awareness Day</span>, den 16:e maj.
+Vårt nästa meetup är i Göteborg, 16:e oktober.
 Vill du delta så <a href="https://www.meetup.com/t12t-Stockholm">anmäl dig via vår <span lang="en">meetup</span>-grupp</a>. Där hittar du också mer information.
 
 ## Säkerhet och inkludering

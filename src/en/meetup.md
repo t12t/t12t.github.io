@@ -16,7 +16,7 @@ Find us at [meetup.com as t12t - Stockholm.](https://www.meetup.com/t12t-Stockho
 
 ## Next meetup
 
-Our next meetup will be in Gothenburg, October 17th.
+Our next meetup will be in Stockholm, November 26th.
 Make sure you [sign up via our meetup group](https://www.meetup.com/t12t-Stockholm). You will also find more information there.
 
 ## Safety and inclusion

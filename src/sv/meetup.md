@@ -17,7 +17,7 @@ Du hittar oss på <a href="https://www.meetup.com/t12t-Stockholm" hreflang="en">
 
 <h2>Nästa <span lang="en">meetup</span></h2>
 
-Vårt nästa meetup är i Göteborg, 16:e oktober.
+Vårt nästa meetup är i Stockholm, 26:e november.
 Vill du delta så <a href="https://www.meetup.com/t12t-Stockholm">anmäl dig via vår <span lang="en">meetup</span>-grupp</a>. Där hittar du också mer information.
 
 ## Säkerhet och inkludering

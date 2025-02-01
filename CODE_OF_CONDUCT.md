@@ -4,11 +4,11 @@ All attendees, speakers, sponsors and volunteers at our events and in our other 
 
 ## Need Help?
 
-Get in touch with us via [our meetup-page](https://www.meetup.com/t12t-Stockholm), [our Twitter](https://twitter.com/t12t) or [our Slack-team](https://t12t.slack.com). You can also reach out to any of the organisers directly at an event or online. They are [Ida Franceen](https://twitter.com/kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken), [Pär Lannerö](https://twitter.com/plannero) and [Erik Gustafsson Spagnoli](https://www.linkedin.com/in/valross/).
+Get in touch with us via [our meetup-page](https://www.meetup.com/t12t-Stockholm) or [our Slack-team](https://t12t.slack.com). You can also reach out to any of the organisers directly at an event or online. They are [Ida Franceen](https://front-end.social/@Kolombiken), [Hampus Sethfors](https://www.linkedin.com/in/sethfors/), [Pär Lannerö](https://www.linkedin.com/in/lannero/), [Erik Gustafsson Spagnoli](https://www.linkedin.com/in/valross/) and and [Marcus Tisäter](https://www.linkedin.com/in/marcus-tis%C3%A4ter-7a740480/).
 
 ## The Quick Version
 
-Our events are dedicated to providing a great and inclusive experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any of our events, including talks, workshops, parties, Twitter, Slack, Github and other online media. Participants violating these rules may be sanctioned or expelled from our event and our other channels at the discretion of the conference organisers.
+Our events are dedicated to providing a great and inclusive experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any of our events, including talks, workshops, parties, Slack, Github and other online media. Participants violating these rules may be sanctioned or expelled from our event and our other channels at the discretion of the conference organisers.
 
 ## The Less Quick Version
 
@@ -26,7 +26,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Organisers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of an event. We value your attendance.
 
-We expect participants to follow these rules at events, including talks, workshops, parties, Twitter, Slack, Github and other online channels.
+We expect participants to follow these rules at events, including talks, workshops, parties, Slack, Github and other online channels.
 
 Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 Please help by translating or improving: [http://github.com/confcodeofconduct](https://github.com/confcodeofconduct/confcodeofconduct.com)

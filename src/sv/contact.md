@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kontakt
-description: Kontakta oss via olika kanaler såsom Meetup.com, Slack, Twitter med flera.
+description: Kontakta oss via olika kanaler såsom Meetup.com, Slack med flera.
 lang: sv
 translationKey: contact
 permalink: /kontakt/
@@ -22,10 +22,6 @@ Vår Slack startade som ett verktyg för att organisera våra meetups. Nu har vi
 bra plats att träffas på digitalt.
 [Gå med i vår Slack!](https://join.slack.com/t/t12t/shared_invite/enQtNjA5NDYyOTExNjY4LTFjYmQ3MmI4N2I0YTIyZjgzMmMxMWYxNjNhYTJlNDM3Zjk3NmNhNjA1NTFiZWI5ZmZmYmE4NjRmMDIzNDUwNTE)
 
-## Via Twitter (eller X)
-
-Vi finns [på Twitter som @t12t](https://twitter.com/t12t) och våra DMs är öppna.
-
 ## Via Mastodon
 
 Vi finns [på Mastodon som @t12t](https://a11y.social/@t12t). Säg gärna hej där!
@@ -36,4 +32,4 @@ Vi har ett par [repositories på vår Github](https://github.com/t12t). Det går
 
 ## Via en av oss
 
-Du kan kontakta oss direkt via våra sociala medier. Vi heter [Ida Franceen](https://strangeobject.space/@kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken), [Pär Lannerö](https://www.linkedin.com/in/lannero/), [Erik Gustafsson Spagnoli](https://www.linkedin.com/in/valross/) och [Marcus Tisäter](https://www.linkedin.com/in/marcus-tis%C3%A4ter-7a740480/).
+Du kan kontakta oss direkt via våra sociala medier. Vi heter [Ida Franceen](https://front-end.social/@Kolombiken), [Hampus Sethfors](https://www.linkedin.com/in/sethfors/), [Pär Lannerö](https://www.linkedin.com/in/lannero/), [Erik Gustafsson Spagnoli](https://www.linkedin.com/in/valross/) och [Marcus Tisäter](https://www.linkedin.com/in/marcus-tis%C3%A4ter-7a740480/).

@@ -14,7 +14,7 @@ för alla.
 
 ## Behöver du hjälp?
 
-Kontakta oss via [vår meetup-sida](https://www.meetup.com/t12t-Stockholm), [vår Twitter](https://twitter.com/t12t) eller [på vår Slack](https://t12t.slack.com). Du kan också kontakta arrangörerna direkt på ett event eller online. De är [Ida Franceen](https://twitter.com/kolombiken), [Hampus Sethfors](https://twitter.com/hampelusken), [Pär Lannerö](https://twitter.com/plannero) och [Erik Gustafsson Spagnoli](https://www.linkedin.com/in/valross/).
+Kontakta oss via [vår meetup-sida](https://www.meetup.com/t12t-Stockholm) eller [på vår Slack](https://t12t.slack.com). Du kan också kontakta arrangörerna direkt på ett event eller online. De är [Ida Franceen](https://front-end.social/@Kolombiken), [Hampus Sethfors](https://www.linkedin.com/in/sethfors/), [Pär Lannerö](https://www.linkedin.com/in/lannero/), [Erik Gustafsson Spagnoli](https://www.linkedin.com/in/valross/) och [Marcus Tisäter](https://www.linkedin.com/in/marcus-tis%C3%A4ter-7a740480/).
 
 ## Snabbversionen
 
@@ -24,7 +24,7 @@ till en ökad mångfald känner sig välkomna. En viktig förutsättning är att
 våra event och våra andra kanaler är fria från trakasserier - dvs uppträdanden som kränker någons värdighet - och det är den som påverkas som avgör om ett beteende känns ok
 eller inte. Sexuellt eller fördomsfullt språk och bildspråk ska undvikas i
 samtliga kanaler och sammanhang, inklusive föredrag, workshops, fester,
-Twitter, Slack, Github och andra kanaler online etc. Deltagare som - enligt arrangörens ensidiga bedömning – bryter mot dessa regler kan avvisas från våra event och portas från våra andra kanaler.
+Slack, Github och andra kanaler online etc. Deltagare som - enligt arrangörens ensidiga bedömning – bryter mot dessa regler kan avvisas från våra event och portas från våra andra kanaler.
 
 ## Den mindre snabba versionen
 
@@ -75,7 +75,7 @@ trakasserier, vänligen kontakta organisatörerna. De kommer även att presenter
 Oranisatörerna hjälper gärna deltagare att kontakta säkerhetsvakt eller polis, erbjuda
 ledsagare, eller på annat sätt hjälpa dem som upplever trakasserier att känna sig säkra under ett evenemang. Vi värdesätter din närvaro.
 
-Vi förväntar oss att alla deltagare följer dessa regler på våra event, inklusive workshops, fester, Twitter, Slack, Github och andra kanaler online.
+Vi förväntar oss att alla deltagare följer dessa regler på våra event, inklusive workshops, fester, Slack, Github och andra kanaler online.
 
 Originalkälla: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 Bidra gärna med översättningar eller andra förbättringar: [http://github.com/confcodeofconduct](https://github.com/confcodeofconduct/confcodeofconduct.com)

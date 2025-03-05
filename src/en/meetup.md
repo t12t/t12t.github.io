@@ -16,7 +16,7 @@ Find us at [meetup.com as t12t - Stockholm.](https://www.meetup.com/t12t-Stockho
 
 ## Next meetup
 
-On February 28th, it's time for [the Axe-con watch party 2025](https://www.meetup.com/t12t-stockholm/events/305112543/).\
+On Mars 6th, it's time for [meetup in Gothenburg](https://www.meetup.com/t12t-stockholm/events/305940284/).\
 Keep an eye on [our meetup group](https://www.meetup.com/t12t-Stockholm) for updates.
 
 ## Safety and inclusion

@@ -16,21 +16,21 @@
   "bugs": {
     "url": "https://github.com/t12t/t12t.github.io/issues"
   },
-  "homepage": "http://t12t.se",
+  "homepage": "https://t12t.se",
   "engines": {
-    "node": "20.9.0",
-    "npm": "10.1.0"
+    "node": "24.12.0",
+    "npm": "11.6.2"
   },
   "scripts": {
     "test-pa11y": "./node_modules/.bin/pa11y-ci",
-    "test-links": "blc $URL -ro --exclude linkedin.com",
+    "link-test": "linkinator",
     "dev": "ELEVENTY_ENV=development eleventy --watch --serve",
     "local-prod": "ELEVENTY_ENV=prod eleventy && cd dist && serve .",
     "prod": "ELEVENTY_ENV=prod eleventy"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
-    "cssnano": "^7.1.1",
+    "cssnano": "^7.1.2",
     "postcss": "^8.5.6",
     "postcss-import": "^16.1.1",
     "postcss-mixins": "^12.1.2",
@@ -38,9 +38,9 @@
     "postcss-simple-vars": "^7.0.1"
   },
   "devDependencies": {
-    "broken-link-checker": "^0.7.8",
+    "linkinator": "^7.5.1",
     "pa11y-ci": "^4.0.1",
-    "prettier": "^3.6.2",
+    "prettier": "^3.7.4",
     "serve": "^14.2.5"
   }
 }

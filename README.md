@@ -50,13 +50,11 @@ npm run test-pa11y
 
 ### Broken Links
 
-You can check the site for broken links by running the following command. To test locally change the `URL` to `http://localhost:8080`.
+You can check the site for broken links by running the following command. To test locally change the url to `http://localhost:8080`.
 
 ```
-URL=http://t12t.se npm run test-links
+npm run link-test https://t12t.se
 ```
-
-Note! LinkedIn returns HTTP 999 and appears broken even though it's not. LinkedIn is excluded from the link test right now to avoid confusing errors. Test links to LinkedIn manually to make sure they work.
 
 ## Deployment
 

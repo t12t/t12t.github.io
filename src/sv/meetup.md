@@ -17,7 +17,8 @@ Du hittar oss på <a href="https://www.meetup.com/t12t-Stockholm" hreflang="en">
 
 <h2>Nästa <span lang="en">meetup</span></h2>
 
-Den 6:e mars är det dags för [meetup i Göteborg](https://www.meetup.com/t12t-stockholm/events/305940284/).\
+Vi hoppas på att kunna anordna ett Axe-con watch party. Troligtvis i början av mars 2026.
+
 Gå med i <a href="https://www.meetup.com/t12t-Stockholm">vår <span lang="en">meetup</span>-grupp</a> för att få uppdateringar.
 
 ## Säkerhet och inkludering

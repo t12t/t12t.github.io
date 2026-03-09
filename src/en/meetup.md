@@ -16,7 +16,9 @@ Find us at [meetup.com as t12t - Stockholm.](https://www.meetup.com/t12t-Stockho
 
 ## Next meetup
 
-We hope to be able to organize an Axe-con watch party. Most likely in the beginning of Mars 2026.
+[New meetup in Gothenburg, March 25th!](https://www.meetup.com/t12t-stockholm/events/313309949)
+
+In Stockholm we hope to have a next meetup in May.
 
 Keep an eye on [our meetup group](https://www.meetup.com/t12t-Stockholm) for updates.
 

@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "linkinator": "^7.6.1",
-    "pa11y-ci": "^4.1.0",
+    "pa11y-ci": "^4.1.1",
     "prettier": "^3.8.3",
     "serve": "^14.2.6"
   }

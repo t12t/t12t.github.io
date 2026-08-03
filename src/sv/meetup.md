@@ -17,7 +17,7 @@ Du hittar oss på <a href="https://www.meetup.com/t12t-Stockholm" hreflang="en">
 
 <h2>Nästa <span lang="en">meetup</span></h2>
 
-Vi siktar på att ha ett nytt meetup i Stockholm i maj.
+Vi siktar på att ha ett nytt meetup i höst.
 
 Gå med i [vår <span lang="en">meetup</span>-grupp](https://www.meetup.com/t12t-Stockholm) för att få uppdateringar.
 

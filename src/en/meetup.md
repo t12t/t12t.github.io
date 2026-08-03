@@ -16,7 +16,7 @@ Find us at [meetup.com as t12t - Stockholm.](https://www.meetup.com/t12t-Stockho
 
 ## Next meetup
 
-We hope to have a next meetup in May in Stockholm.
+We hope to have a next meetup during autumn.
 
 Keep an eye on [our meetup group](https://www.meetup.com/t12t-Stockholm) for updates.
 
